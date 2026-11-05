@@ -1,0 +1,31 @@
+# Core Machine Learning & Data processing
+
+numpy>=1.21.0
+
+scikit-learn>=1.0.0
+
+pandas>=1.3.0
+
+
+
+# Computer Vision & Hand Tracking
+
+opencv-python>=4.5.0
+
+mediapipe>=0.9.0
+
+
+
+# GUI & Image Rendering (thường dùng chung với tkinter/gui.py)
+
+Pillow>=9.0.0
+
+
+
+# Lưu ý: Nếu bạn sử dụng thêm các thư viện giao diện như PyQt5 hoặc customtkinter, 
+
+# hãy bỏ comment ở dưới và điều chỉnh cho phù hợp với code của bạn:
+
+# PyQt5>=5.15.0
+
+# customtkinter>=5.2.0
