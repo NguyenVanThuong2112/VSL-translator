@@ -1,103 +1,89 @@
-# 🤟 Vietnamese Sign Language (VSL) Translator
+# 🦠 COVID-19 Data Analysis Pipeline: SQL ➔ Python ➔ Power BI
 
-![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
-![Mediapipe](https://img.shields.io/badge/Mediapipe-Enabled-green)
-![OpenCV](https://img.shields.io/badge/OpenCV-Supported-red)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Model-orange)
+[![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://github.com/NguyenVanThuong2112/COVID-19-Data-Exploration-SQL)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/NguyenVanThuong2112/COVID-19-Data-Exploration-SQL)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/NguyenVanThuong2112/COVID-19-Data-Exploration-SQL)
 
-A real-time Desktop Application that translates Vietnamese Sign Language (VSL) into text and speech. Built with **Computer Vision (OpenCV & MediaPipe)** for hand-tracking and **Scikit-Learn** for gesture classification, this project provides a complete pipeline from dataset collection to model training and GUI deployment.
+## 📌 Project Overview
+This project is a comprehensive **Full-Stack Data Analysis Portfolio** focusing on the global impacts of the COVID-19 pandemic. 
 
-## ✨ Key Features
-*   **Real-time Recognition:** Captures webcam feed to detect and translate VSL hand gestures instantly.
-*   **Tkinter GUI:** A lightweight, user-friendly graphical interface (`src/gui.py`).
-*   **Word Suggester:** An integrated NLP module (`src/word_suggester.py`) that predicts and suggests complete Vietnamese words based on recognized characters.
-*   **Text-to-Speech (TTS):** Speaks out the translated Vietnamese text automatically using `pyttsx3`.
-*   **Custom Training Pipeline:** Includes built-in scripts (`data/collect_images.py`, `data/create_dataset.py`) to easily collect new hand gestures and train your own custom model.
+Initially started as an SQL data exploration project, it has evolved into a complete end-to-end data pipeline. The project demonstrates the ability to extract initial insights using **SQL Server**, programmatically clean and transform raw datasets using **Python (Pandas)**, and design an interactive, dynamic dashboard using **Power BI**.
 
-## 📁 Repository Structure
+## 🛠️ Tech Stack & Tools
+*   **Database Management:** Microsoft SQL Server (SSMS)
+*   **Data Manipulation & Cleaning:** Python (Pandas, NumPy, Pathlib), Jupyter Notebook
+*   **Data Visualization:** Power BI Desktop
+*   **Version Control:** Git & GitHub
+
+## 📂 Repository Structure
+To maintain a clean and professional workflow, the project is structured as follows:
 
 ```text
-VSL-translator/
-│
-├── data/                   # Dataset generation pipeline
-│   ├── collect_images.py   # Script to capture hand images via webcam
-│   ├── create_dataset.py   # Script to extract MediaPipe landmarks and save to CSV/Pickle
-│   ├── words.csv           # Vocabulary dictionary
-│   └── download_dataset.txt# Link to download the full raw dataset
-│
-├── docs/                   # Documentation & Logs
-│   ├── CHANGES.md          # Version history
-│   ├── LAYOUT_CHANGE_V2.3.md # UI update notes
-│   └── UPDATE_PLAN.md      # Future development plans
-│
-├── models/                 # Pre-trained models
-│   ├── model.p             # Trained classifier
-│   └── download_model.txt  # Google Drive link for VSL.pickle
-│
-├── notebooks/              
-│   └── model_testing.ipynb # Jupyter notebook for training and evaluating models
-│
-├── src/                    # Core application logic
-│   ├── __init__.py
-│   ├── backend.py          # Inference engine & MediaPipe wrapper
-│   ├── config.py           # App configurations (colors, thresholds, etc.)
-│   ├── gui.py              # Tkinter UI components
-│   └── word_suggester.py   # Autocomplete & word suggestion algorithm
-│
-├── requirements.txt        # Dependencies (OpenCV, MediaPipe, sklearn, etc.)
-└── main.py                 # Main entry point to launch the app
+📦 COVID-19-Data-Exploration-SQL
+ ┣ 📂 00_Data                 
+ ┃ ┣ 📂 raw_data              # Original Excel files downloaded from the source
+ ┃ ┗ 📂 clean_data            # Cleaned CSV files exported via Python for Power BI
+ ┃
+ ┣ 📂 01_SQL_Exploration      
+ ┃ ┗ 📜 Covid_Data_Exploration.sql  # SQL queries for initial data discovery and calculations
+ ┃
+ ┣ 📂 02_Python_Processing    
+ ┃ ┣ 📜 01_Data_Cleaning.ipynb      # Handles missing values, duplicates, and data types
+ ┃ ┗ 📜 02_Data_Transformation.ipynb # Aggregates and splits data into 4 optimized tables
+ ┃
+ ┣ 📂 03_PowerBI_Dashboard    
+ ┃ ┣ 📜 Covid_Dashboard.pbix        # The final interactive Power BI file
+ ┃ ┗ 📜 Dashboard_Screenshot.png    # Preview image of the dashboard
+ ┃
+ ┗ 📜 README.md
 
 ```
 
-## ⚙️ Installation
+## 🔄 Data Pipeline Workflow
 
-**1. Clone the repository:**
+### Phase 1: Data Exploration (SQL Server)
 
-```bash
-git clone [https://github.com/NguyenVanThuong2112/VSL-translator.git](https://github.com/NguyenVanThuong2112/VSL-translator.git)
-cd VSL-translator
+* Imported raw datasets (`CovidDeaths` and `CovidVaccinations`) into SQL Server.
+* Utilized complex SQL queries including `JOINs`, `CTEs`, `Temp Tables`, `Windows Functions` (Partition By), and `Aggregate Functions`.
+* Explored core metrics such as Total Cases vs. Total Deaths (Mortality Rate) and Total Cases vs. Population (Infection Rate).
+
+### Phase 2: Data Cleaning & Transformation (Python/Pandas)
+
+* **Data Quality Assurance:** Handled Null/NaN values, standardized `datetime` formats, and enforced strict numeric data types to prevent calculation errors.
+* **Missing Value Imputation:** Logically filled unrecorded daily cases and deaths with `0`.
+* **Dimensional Modeling:** Transformed the cleaned master dataset into 4 specific fact/dimension CSV tables tailored for optimal Power BI performance:
+1. `1_GlobalNumbers.csv` (For high-level KPI Cards)
+2. `2_TotalDeathsPerContinent.csv` (For Bar/Donut Charts)
+3. `3_PercentPopulationInfected.csv` (For Geospatial Mapping)
+4. `4_PercentPopulationInfected_TimeSeries.csv` (For Trend Line Charts)
+
+
+
+### Phase 3: Data Visualization (Power BI)
+
+* Connected Power BI directly to the cleaned CSV files generated by Python.
+* Designed an interactive dashboard to track the spread of the virus, identify geographical hotspots, and monitor mortality trends globally.
+
+## 📊 Dashboard Preview
+
+*(Note: The dashboard is currently in development. The screenshot below will be updated once the Power BI visualization phase is complete.)*
+
+## 💡 Key Findings (Preview)
+
+* **Infection Rates:** Identified the top countries with the highest percentage of their population infected by the virus.
+* **Mortality Trends:** Tracked the global death percentage over time, highlighting the peaks during major waves.
+* **Vaccination Progress:** Mapped the rolling count of vaccinated individuals against the total population to measure immunization progress.
+
+## 🔗 Data Source
+
+* **Source:** [Our World in Data - COVID-19 Dataset](https://ourworldindata.org/covid-deaths)
+* **Format:** Excel / CSV
+* **Timespan:** Jan 2020 - 2021 (Based on Alex The Analyst's Portfolio Project timeframe).
 
 ```
 
-**2. Install dependencies:**
-
-```bash
-pip install -r requirements.txt
-
-```
-
-**3. Download Pre-trained Models:**
-Due to file size limits, the main model (`VSL.pickle`) is hosted on Google Drive.
-
-* Open `models/download_model.txt` and navigate to the provided Google Drive link.
-* Download `VSL.pickle` and place it inside the `models/` directory.
-
-## 🚀 Usage
-
-### 1. Run the Application
-
-To launch the Translator GUI with the pre-trained model:
-
-```bash
-python main.py
+### 💡 Lưu ý nhỏ cho bạn:
+1. Ở phần **`Dashboard Preview`**, tôi đã để sẵn một khung ảnh giữ chỗ (Placeholder) có chữ *"Power BI Dashboard Coming Soon"*. Sau khi bạn làm xong Power BI và chụp ảnh màn hình lưu vào thư mục `03_PowerBI_Dashboard`, hãy tải bức ảnh đó lên GitHub và thay thế cái link trong ngoặc `()` bằng link ảnh thực tế của bạn nhé.
+2. Các huy hiệu (Badges) ở ngay dưới tiêu đề sẽ tự động hiển thị các logo màu sắc rất đẹp mắt của SQL Server, Python và Power BI khi bạn dán vào giao diện của GitHub.
 
 ```
-
-*Note: Make sure your webcam is connected.*
-
-### 2. Train Your Own Gestures (Custom Dataset)
-
-This repository includes a full pipeline to train new signs:
-
-1. **Collect Data:** Run `python data/collect_images.py` to open the webcam and capture images for new classes.
-2. **Process Data:** Run `python data/create_dataset.py` to extract hand landmarks using MediaPipe and save them into a structured format.
-3. **Train Model:** Open `notebooks/model_testing.ipynb` to train a new Scikit-Learn classifier (e.g., Random Forest) on your custom data and export the new `model.p` or `VSL.pickle`.
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-## 📝 License
-
-This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
-
