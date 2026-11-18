@@ -10,13 +10,19 @@ A real-time desktop application that translates **Vietnamese Sign Language (VSL)
 
 The repository covers the whole workflow: collecting a dataset, extracting hand landmarks, training a model, and running it live.
 
-<!-- TODO: add a 10-second GIF of the app recognizing signs from the webcam.
-![Demo](docs/demo.gif) -->
+## 🎬 Demo
+
+*Real-time recognition of VSL hand gestures from a webcam.*
+https://github.com/user-attachments/assets/bdc859c4-3434-4ecd-b81c-460e05383d05
+
+
+
 
 ## 🎯 Scope
 
-<!-- TODO: state clearly what the model recognizes, e.g.:
-This project recognizes [the VSL alphabet / N gestures / words]. Recognized characters are combined into Vietnamese words with the help of a word suggester. It does not translate full sentences or continuous signing. -->
+This project recognizes **individual VSL hand signs for letters** (the Vietnamese alphabet, [N] classes in total). Recognized letters are combined into Vietnamese words, and a word suggester (dictionary of about 79,000 words) proposes completions.
+
+**Not supported:** full sentences, continuous signing, and signs that depend on facial expression or movement.
 
 ## ✨ Features
 
