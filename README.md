@@ -1,55 +1,70 @@
 # 🤟 Vietnamese Sign Language (VSL) Translator
 
-![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
+![Python](https://img.shields.io/badge/python-3.12-blue.svg)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-hand_tracking-green)
 ![OpenCV](https://img.shields.io/badge/OpenCV-computer_vision-red)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-classifier-orange)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Random_Forest-orange)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
+![License](https://img.shields.io/badge/license-MIT-green)
 
-A real-time desktop application that translates **Vietnamese Sign Language (VSL)** hand gestures into text and speech. It uses **MediaPipe** to track the hand from a webcam, **Scikit-Learn** to classify each gesture, and a **Tkinter** interface to show the result.
+A real-time desktop application that translates **Vietnamese Sign Language (VSL)** hand signs into text and speech. It tracks the hand from a webcam with **MediaPipe**, classifies each sign with a **Scikit-Learn** Random Forest (**99.39% test accuracy** on a held-out split, see [caveat](#-model-performance)), and shows the result in a **Tkinter** interface.
 
-The repository covers the whole workflow: collecting a dataset, extracting hand landmarks, training a model, and running it live.
+The repository covers the whole workflow: collecting a dataset, extracting hand landmarks, training and comparing models, and running the app live.
 
 ## 🎬 Demo
 
 *Real-time recognition of VSL hand gestures from a webcam.*
 https://github.com/user-attachments/assets/bdc859c4-3434-4ecd-b81c-460e05383d05
 
-
-
-
 ## 🎯 Scope
 
-This project recognizes **individual VSL hand signs for letters** (the Vietnamese alphabet, [N] classes in total). Recognized letters are combined into Vietnamese words, and a word suggester (dictionary of about 79,000 words) proposes completions.
+The model recognizes **23 static hand signs for Vietnamese letters**: a, b, c, d, đ (typed as `dd`), e, g, h, i, k, l, m, n, o, p, q, r, s, t, u, v, x, y.
 
-**Not supported:** full sentences, continuous signing, and signs that depend on facial expression or movement.
+Recognized letters are combined into words, and a word suggester (dictionary of about 79,000 Vietnamese words) proposes completions.
+
+**Not supported:** full sentences, continuous signing, and letters outside the 23 classes above.
 
 ## ✨ Features
 
-- **Real-time recognition:** reads the webcam feed and classifies VSL hand gestures instantly.
-- **Tkinter GUI:** a lightweight, easy-to-use interface (`src/gui.py`).
-- **Word suggester:** suggests complete Vietnamese words from the recognized characters (`src/word_suggester.py`).
-- **Text-to-speech:** reads the translated Vietnamese text aloud with `pyttsx3`.
-- **Custom training pipeline:** scripts to collect your own gestures and train a new model (`data/collect_images.py`, `data/create_dataset.py`).
-
-## 📊 Model Performance
-
-<!-- TODO: fill in with your real numbers and delete any row you cannot back up. -->
-
-| Item | Value |
-|---|---|
-| Number of classes | [X] |
-| Number of samples | [X] |
-| Classifier | [e.g. Random Forest] |
-| Features | MediaPipe hand landmarks |
-| Test accuracy | [X]% |
+- **Real-time recognition** from the webcam feed (about 19 FPS on the author's laptop).
+- **Stable output:** a letter is confirmed only after it is detected on 15 consecutive frames, which reduces accidental detections.
+- **Word suggester** (`src/word_suggester.py`) that completes Vietnamese words from the recognized letters.
+- **Text-to-speech:** reads the translated text aloud with `pyttsx3`.
+- **Tkinter GUI** (`src/gui.py`), lightweight and easy to use.
+- **Custom training pipeline:** scripts and a notebook to collect your own signs and train a new model.
 
 ## 🔬 How It Works
 
 1. **Capture:** OpenCV reads frames from the webcam.
-2. **Hand tracking:** MediaPipe detects the hand and returns 21 landmark points.
-3. **Classification:** the landmark coordinates are fed to a Scikit-Learn classifier that predicts the sign.
-4. **Output:** the predicted character is added to the text, the word suggester proposes completions, and `pyttsx3` can speak the result.
+2. **Hand tracking:** MediaPipe HandLandmarker detects the hand and returns 21 landmarks. Their x and y coordinates give **42 features** per frame.
+3. **Classification:** a Random Forest predicts one of the 23 letters.
+4. **Confirmation:** the letter is added to the text only after 15 consecutive frames agree.
+5. **Output:** the word suggester proposes completions, and `pyttsx3` can speak the text.
+
+## 📊 Model Performance
+
+| Item | Value |
+|---|---|
+| Classes | 23 static letter signs |
+| Samples | 40,300 (about 1,470–1,800 per class) |
+| Features | 42 (x, y of 21 MediaPipe hand landmarks, one hand) |
+| Split | 80% train / 20% test (8,060 samples), stratified random split |
+| Training data | Rotation (±15°) and Gaussian noise (0.02): 32,240 → 96,720 samples |
+| Chosen model | Random Forest (100 trees, max depth 15) |
+| **Test accuracy** | **99.39%** |
+| 5-fold CV accuracy | 98.84% |
+
+Comparison of the three classifiers I trained:
+
+| Model | CV accuracy | Test accuracy |
+|---|---|---|
+| **Random Forest** | 98.84% | **99.39%** |
+| Decision Tree | 95.65% | 99.31% |
+| SVM (Linear) | 98.15% | 98.98% |
+
+> **Caveat:** the test set is a random split of frames. Similar frames from the same recording can appear in both the training and test sets, so these numbers are likely higher than what you would see with a new user or different lighting.
+
+**Runtime** (author's Windows laptop, 31 sessions): about 19 FPS on average and 13–19 ms of processing time per frame.
 
 ## 📁 Repository Structure
 
@@ -57,16 +72,15 @@ This project recognizes **individual VSL hand signs for letters** (the Vietnames
 VSL-translator/
 ├── data/
 │   ├── collect_images.py       # Capture hand images via webcam
-│   ├── create_dataset.py       # Extract MediaPipe landmarks and save the dataset
-│   ├── words.csv               # Vocabulary dictionary
-│   └── download_dataset.txt    # Link to the full raw dataset
+│   ├── create_dataset.py       # Extract MediaPipe landmarks and build the dataset
+│   ├── words.csv               # Vocabulary dictionary for the word suggester
+│   └── download_dataset.txt    # Link to the dataset (VSL.pickle)
 ├── docs/                       # Version history and development notes
-├── legacy/                     # [TODO: one line on what this contains]
+├── legacy/                     # Earlier versions kept for reference
 ├── models/
-│   ├── model.p                 # Trained classifier
-│   └── download_model.txt      # Link to download the main model
+│   └── model.p                 # Trained Random Forest used by the app
 ├── notebooks/
-│   └── model_testing.ipynb     # Train and evaluate models
+│   └── model_final.ipynb       # Train, compare and evaluate models
 ├── src/
 │   ├── backend.py              # Inference engine and MediaPipe wrapper
 │   ├── config.py               # App settings (colors, thresholds, ...)
@@ -78,6 +92,8 @@ VSL-translator/
 ```
 
 ## ⚙️ Installation
+
+Tested on **Windows with Python 3.12**. Text-to-speech uses the Windows speech engine, so other platforms may need changes.
 
 **1. Clone the repository**
 
@@ -92,11 +108,15 @@ cd VSL-translator
 pip install -r requirements.txt
 ```
 
-**3. Download the pre-trained model**
+The model was trained with `scikit-learn==1.5.2`. Use that version to avoid errors when loading it.
 
-The main model is too large for the repository. Open `models/download_model.txt`, download the file from the link, and place it in the `models/` folder.
+**3. Get the pre-trained model**
 
-<!-- TODO: use one model file name everywhere (model.p or VSL.pickle) and make sure it matches the path in src/config.py. -->
+The app loads `models/model.p` (Random Forest, about 99 MB). If the file is not in the repository because of its size, download it from the [Releases](https://github.com/NguyenVanThuong2112/VSL-translator/releases) page and put it in the `models/` folder.
+
+**4. First run**
+
+On the first launch the app downloads MediaPipe's `hand_landmarker.task` automatically, so an internet connection is needed once.
 
 ## 🚀 Usage
 
@@ -106,39 +126,37 @@ The main model is too large for the repository. Open `models/download_model.txt`
 python main.py
 ```
 
-A webcam is required.
+A webcam is required. Show a sign and hold it steady for a moment until the letter is confirmed.
 
-### Train your own gestures
+### Train your own signs
 
-1. **Collect data:** `python data/collect_images.py` opens the webcam and captures images for each new class.
-2. **Build the dataset:** `python data/create_dataset.py` extracts hand landmarks with MediaPipe and saves them.
-3. **Train:** open `notebooks/model_testing.ipynb`, train a Scikit-Learn classifier on your data, and export the new model into `models/`.
-
-### Run the tests
-
-<!-- TODO: replace with the real command, e.g. `pytest tests/` -->
+1. **Collect images:** `python data/collect_images.py` opens the webcam and captures images for each class.
+2. **Build the dataset:** `python data/create_dataset.py` extracts hand landmarks with MediaPipe and saves them as `VSL.pickle`.
+3. **Train:** open `notebooks/model_final.ipynb`, set `DATA_PATH` to your dataset and `MODEL_SAVE_PATH` to where the model should be saved. The notebook applies augmentation, compares Random Forest, Decision Tree and SVM, and saves the best model.
+4. **Use it:** rename the saved model to `model.p` and put it in `models/`.
 
 ## ⚠️ Limitations
 
-<!-- TODO: edit to match what you observed. Examples: -->
-- Accuracy depends on lighting and background.
-- [One hand / both hands] supported.
-- Recognizes individual signs only, not continuous signing or full sentences.
-- Trained on a limited number of signers, so it may perform worse for hand shapes and styles it has not seen.
+- Recognizes **individual static letter signs** only, using a **single hand**.
+- Evaluated on a random split of frames, so accuracy for new users or lighting conditions is not measured.
+- Tested only on Windows with Python 3.12.
+- Processing time occasionally spikes above 100 ms, which can make the video stutter.
+- A sign must be held for 15 consecutive frames (roughly 0.7 seconds at 20 FPS), so fast spelling is not supported.
 
-## 🗺️ Roadmap
+## 🗺️ Future Work
 
-<!-- TODO: 2-3 real next steps, e.g. add more signs, support two hands, improve the word suggester. See docs/UPDATE_PLAN.md. -->
+- Collect data from more signers and lighting conditions, and evaluate on a separate test recording.
+- Add more signs, such as modified vowels.
+- Reduce the model size (for example with compression or a lighter classifier).
 
 ## 🤝 Contributing
 
-Issues and pull requests are welcome. If you plan a larger change, please open an issue first to discuss it.
+Issues and pull requests are welcome. For larger changes, please open an issue first to discuss what you would like to change.
 
 ## 📝 License
 
-This project is released under the [MIT License](LICENSE).
+Released under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Nguyễn Văn Thương** (check the spelling of your name) · [@NguyenVanThuong2112](https://github.com/NguyenVanThuong2112)
-<!-- TODO: add email or LinkedIn. -->
+**Nguyễn Văn Thương** · [@NguyenVanThuong2112](https://github.com/NguyenVanThuong2112)
