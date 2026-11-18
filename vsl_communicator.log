@@ -1,0 +1,1518 @@
+2026-01-03 16:56:26,101 [INFO] VSL Backend initialized
+2026-01-03 16:56:41,928 [INFO] Loaded model from ./models/model.p
+2026-01-03 16:56:42,883 [INFO] Downloaded hand_landmarker.task to C:\Users\ASUS\.mediapipe_models\hand_landmarker.task
+2026-01-03 16:56:43,007 [INFO] HandLandmarker initialized
+2026-01-03 16:56:45,443 [INFO] Webcam initialized
+2026-01-03 16:57:21,321 [INFO] VSL Backend released
+2026-01-03 16:57:32,546 [INFO] VSL Backend initialized
+2026-01-03 16:57:33,032 [INFO] Loaded model from ./models/model.p
+2026-01-03 16:57:33,071 [INFO] HandLandmarker initialized
+2026-01-03 16:57:35,439 [INFO] Webcam initialized
+2026-01-03 16:57:36,624 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-03 16:57:36,625 [INFO] Using writeable comtypes cache directory: 'C:\Users\ASUS\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-01-03 16:57:36,744 [INFO] Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: Typelib different than module
+2026-01-03 16:57:36,759 [INFO] # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2026-01-03 16:57:36,800 [INFO] # Generating comtypes.gen.SpeechLib
+2026-01-03 16:58:36,653 [INFO] VSL Backend released
+2026-01-03 18:44:07,197 [INFO] VSL Backend initialized
+2026-01-03 18:44:07,692 [INFO] Loaded model from ./models/model.p
+2026-01-03 18:44:07,738 [INFO] HandLandmarker initialized
+2026-01-03 18:44:10,019 [INFO] Webcam initialized
+2026-01-03 18:44:10,122 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-03 18:44:10,122 [INFO] Using writeable comtypes cache directory: 'C:\Users\ASUS\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-01-03 18:46:52,150 [INFO] VSL Backend released
+2026-01-03 19:03:27,481 [INFO] VSL Backend initialized
+2026-01-03 19:03:28,143 [INFO] Loaded model from ./models/model.p
+2026-01-03 19:03:28,258 [INFO] HandLandmarker initialized
+2026-01-03 19:03:30,543 [INFO] Webcam initialized
+2026-01-03 19:03:30,652 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-03 19:03:30,653 [INFO] Using writeable comtypes cache directory: 'C:\Users\ASUS\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-01-03 19:03:46,312 [INFO] VSL Backend released
+2026-01-03 19:06:19,034 [INFO] VSL Backend initialized
+2026-01-03 19:06:19,670 [INFO] Loaded model from ./models/model.p
+2026-01-03 19:06:19,720 [INFO] HandLandmarker initialized
+2026-01-03 19:06:24,275 [INFO] Webcam initialized
+2026-01-03 19:06:24,492 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-03 19:06:24,492 [INFO] Using writeable comtypes cache directory: 'C:\Users\ASUS\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-01-03 19:06:51,726 [INFO] VSL Backend released
+2026-01-03 19:10:33,339 [INFO] VSL Backend initialized
+2026-01-03 19:10:33,799 [INFO] Loaded model from ./models/model.p
+2026-01-03 19:10:33,883 [INFO] HandLandmarker initialized
+2026-01-03 19:10:36,245 [INFO] Webcam initialized
+2026-01-03 19:10:36,342 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-03 19:10:36,343 [INFO] Using writeable comtypes cache directory: 'C:\Users\ASUS\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-01-03 19:15:05,341 [INFO] VSL Backend released
+2026-01-03 19:25:26,633 [INFO] VSL Backend initialized
+2026-01-03 19:25:27,098 [INFO] Loaded model from ./models/model.p
+2026-01-03 19:25:27,202 [INFO] HandLandmarker initialized
+2026-01-03 19:25:29,553 [INFO] Webcam initialized
+2026-01-03 19:26:19,442 [INFO] VSL Backend released
+2026-01-03 22:44:53,756 [INFO] VSL Backend initialized
+2026-01-03 22:45:01,022 [INFO] Loaded model from ./models/model.p
+2026-01-03 22:45:01,275 [INFO] HandLandmarker initialized
+2026-01-03 22:45:03,733 [INFO] Webcam initialized
+2026-01-03 22:45:04,440 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-03 22:45:04,441 [INFO] Using writeable comtypes cache directory: 'C:\Users\ASUS\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-01-03 22:48:05,037 [INFO] VSL Backend released
+2026-01-03 23:07:03,828 [INFO] VSL Backend initialized
+2026-01-03 23:07:04,297 [INFO] Loaded model from ./models/model.p
+2026-01-03 23:07:04,339 [INFO] HandLandmarker initialized
+2026-01-03 23:07:06,609 [INFO] Webcam initialized
+2026-01-03 23:07:06,830 [INFO] Loaded 79199 words into dictionary
+2026-01-03 23:07:06,857 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-03 23:07:06,857 [INFO] Using writeable comtypes cache directory: 'C:\Users\ASUS\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-01-03 23:09:52,645 [INFO] VSL Backend released
+2026-01-04 22:29:06,669 [INFO] VSL Backend initialized
+2026-01-04 22:29:14,051 [INFO] Loaded model from ./models/model.p
+2026-01-04 22:29:14,259 [INFO] HandLandmarker initialized
+2026-01-04 22:29:16,983 [INFO] Webcam initialized
+2026-01-04 22:29:17,345 [INFO] Loaded 79199 words into dictionary
+2026-01-04 22:29:17,668 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-04 22:29:17,668 [INFO] Using writeable comtypes cache directory: 'C:\Users\ASUS\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-01-04 22:34:59,324 [INFO] VSL Backend released
+2026-01-04 23:06:47,376 [INFO] VSL Backend initialized
+2026-01-04 23:06:49,050 [INFO] Loaded model from ./models/model.p
+2026-01-04 23:06:49,297 [INFO] HandLandmarker initialized
+2026-01-04 23:06:54,174 [INFO] Webcam initialized
+2026-01-04 23:06:54,672 [INFO] Loaded 79199 words into dictionary
+2026-01-04 23:06:54,750 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-04 23:06:54,750 [INFO] Using writeable comtypes cache directory: 'C:\Users\ASUS\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-01-04 23:07:23,389 [INFO] VSL Backend released
+2026-01-04 23:15:23,882 [INFO] VSL Backend initialized
+2026-01-04 23:15:24,355 [INFO] Loaded model from ./models/model.p
+2026-01-04 23:15:24,399 [INFO] HandLandmarker initialized
+2026-01-04 23:15:26,745 [INFO] Webcam initialized
+2026-01-04 23:15:26,975 [INFO] Loaded 79199 words into dictionary
+2026-01-04 23:15:27,004 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-04 23:15:27,004 [INFO] Using writeable comtypes cache directory: 'C:\Users\ASUS\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-01-04 23:16:10,851 [INFO] VSL Backend released
+2026-01-04 23:38:28,456 [INFO] VSL Backend initialized
+2026-01-04 23:38:28,924 [INFO] Loaded model from ./models/model.p
+2026-01-04 23:38:28,967 [INFO] HandLandmarker initialized
+2026-01-04 23:38:31,221 [INFO] Webcam initialized
+2026-01-04 23:38:47,519 [INFO] VSL Backend released
+2026-01-04 23:46:17,458 [INFO] VSL Backend initialized
+2026-01-04 23:46:17,927 [INFO] Loaded model from ./models/model.p
+2026-01-04 23:46:17,970 [INFO] HandLandmarker initialized
+2026-01-04 23:46:20,240 [INFO] Webcam initialized
+2026-01-04 23:46:34,828 [INFO] VSL Backend released
+2026-01-05 00:02:29,643 [INFO] VSL Backend initialized
+2026-01-05 00:02:30,107 [INFO] Loaded model from ./models/model.p
+2026-01-05 00:02:30,152 [INFO] HandLandmarker initialized
+2026-01-05 00:02:32,450 [INFO] Webcam initialized
+2026-01-05 00:02:32,658 [INFO] Loaded 79199 words into dictionary
+2026-01-05 00:02:32,682 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-05 00:02:32,684 [INFO] Using writeable comtypes cache directory: 'C:\Users\ASUS\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-01-05 00:03:08,812 [INFO] VSL Backend released
+2026-01-05 00:05:52,945 [INFO] VSL Backend initialized
+2026-01-05 00:05:53,401 [INFO] Loaded model from ./models/model.p
+2026-01-05 00:05:53,443 [INFO] HandLandmarker initialized
+2026-01-05 00:05:55,774 [INFO] Webcam initialized
+2026-01-05 00:05:55,978 [INFO] Loaded 79199 words into dictionary
+2026-01-05 00:05:56,004 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-05 00:05:56,004 [INFO] Using writeable comtypes cache directory: 'C:\Users\ASUS\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-01-05 00:06:10,194 [INFO] VSL Backend released
+2026-01-05 00:14:23,015 [INFO] VSL Backend initialized
+2026-01-05 00:14:23,478 [INFO] Loaded model from ./models/model.p
+2026-01-05 00:14:23,519 [INFO] HandLandmarker initialized
+2026-01-05 00:14:25,848 [INFO] Webcam initialized
+2026-01-05 00:14:26,051 [INFO] Loaded 79199 words into dictionary
+2026-01-05 00:14:26,077 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-05 00:14:26,077 [INFO] Using writeable comtypes cache directory: 'C:\Users\ASUS\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-01-05 00:14:41,749 [INFO] VSL Backend released
+2026-01-05 00:16:41,514 [INFO] VSL Backend initialized
+2026-01-05 00:16:42,000 [INFO] Loaded model from ./models/model.p
+2026-01-05 00:16:42,057 [INFO] HandLandmarker initialized
+2026-01-05 00:16:44,432 [INFO] Webcam initialized
+2026-01-05 00:16:44,638 [INFO] Loaded 79199 words into dictionary
+2026-01-05 00:16:44,664 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-05 00:16:44,664 [INFO] Using writeable comtypes cache directory: 'C:\Users\ASUS\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-01-05 00:19:58,732 [INFO] VSL Backend released
+2026-01-05 00:25:23,877 [INFO] VSL Backend initialized
+2026-01-05 00:25:24,348 [INFO] Loaded model from ./models/model.p
+2026-01-05 00:25:24,390 [INFO] HandLandmarker initialized
+2026-01-05 00:25:26,688 [INFO] Webcam initialized
+2026-01-05 00:25:26,896 [INFO] Loaded 79199 words into dictionary
+2026-01-05 00:25:26,921 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-05 00:25:26,921 [INFO] Using writeable comtypes cache directory: 'C:\Users\ASUS\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-01-05 00:25:31,477 [INFO] VSL Backend released
+2026-01-05 00:28:39,212 [INFO] VSL Backend initialized
+2026-01-05 00:28:39,693 [INFO] Loaded model from ./models/model.p
+2026-01-05 00:28:39,735 [INFO] HandLandmarker initialized
+2026-01-05 00:28:42,023 [INFO] Webcam initialized
+2026-01-05 00:28:42,223 [INFO] Loaded 79199 words into dictionary
+2026-01-05 00:28:42,250 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-05 00:28:42,250 [INFO] Using writeable comtypes cache directory: 'C:\Users\ASUS\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-01-05 00:29:04,870 [INFO] VSL Backend released
+2026-01-05 00:29:44,504 [INFO] VSL Backend initialized
+2026-01-05 00:29:44,969 [INFO] Loaded model from ./models/model.p
+2026-01-05 00:29:45,029 [INFO] HandLandmarker initialized
+2026-01-05 00:29:47,447 [INFO] Webcam initialized
+2026-01-05 00:29:47,679 [INFO] Loaded 79199 words into dictionary
+2026-01-05 00:29:47,711 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-05 00:29:47,712 [INFO] Using writeable comtypes cache directory: 'C:\Users\ASUS\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-01-05 00:29:53,696 [INFO] VSL Backend released
+2026-01-05 00:31:09,464 [INFO] VSL Backend initialized
+2026-01-05 00:31:09,921 [INFO] Loaded model from ./models/model.p
+2026-01-05 00:31:09,961 [INFO] HandLandmarker initialized
+2026-01-05 00:31:12,245 [INFO] Webcam initialized
+2026-01-05 00:31:12,452 [INFO] Loaded 79199 words into dictionary
+2026-01-05 00:31:12,476 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-05 00:31:12,476 [INFO] Using writeable comtypes cache directory: 'C:\Users\ASUS\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-01-05 00:31:31,890 [INFO] VSL Backend released
+2026-01-05 00:31:43,979 [INFO] VSL Backend initialized
+2026-01-05 00:31:44,437 [INFO] Loaded model from ./models/model.p
+2026-01-05 00:31:44,477 [INFO] HandLandmarker initialized
+2026-01-05 00:31:46,773 [INFO] Webcam initialized
+2026-01-05 00:31:46,982 [INFO] Loaded 79199 words into dictionary
+2026-01-05 00:31:47,007 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-05 00:31:47,007 [INFO] Using writeable comtypes cache directory: 'C:\Users\ASUS\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-01-05 00:32:05,719 [INFO] VSL Backend released
+2026-01-31 10:36:16,383 [INFO] VSL Backend initialized
+2026-01-31 10:36:23,064 [INFO] Loaded model from ./models/model.p
+2026-01-31 10:36:23,237 [INFO] HandLandmarker initialized
+2026-01-31 10:36:25,669 [INFO] Webcam initialized
+2026-01-31 10:36:26,015 [INFO] Loaded 79199 words into dictionary
+2026-01-31 10:36:26,320 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-31 10:36:26,320 [INFO] Using writeable comtypes cache directory: 'C:\Users\ASUS\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-01-31 10:39:32,021 [INFO] VSL Backend released
+2026-01-31 11:28:30,083 [INFO] VSL Backend initialized
+2026-01-31 11:28:31,105 [INFO] Loaded model from ./models/model.p
+2026-01-31 11:28:31,210 [INFO] HandLandmarker initialized
+2026-01-31 11:28:33,511 [INFO] Webcam initialized
+2026-01-31 11:28:33,743 [INFO] Loaded 79199 words into dictionary
+2026-01-31 11:28:33,791 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-31 11:28:33,791 [INFO] Using writeable comtypes cache directory: 'C:\Users\ASUS\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-01-31 11:30:51,208 [INFO] VSL Backend released
+2026-01-31 11:36:32,957 [INFO] VSL Backend initialized
+2026-01-31 11:36:33,637 [INFO] Loaded model from ./models/model.p
+2026-01-31 11:36:33,752 [INFO] HandLandmarker initialized
+2026-01-31 11:36:36,019 [INFO] Webcam initialized
+2026-01-31 11:36:36,226 [INFO] Loaded 79199 words into dictionary
+2026-01-31 11:36:36,253 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-31 11:36:36,253 [INFO] Using writeable comtypes cache directory: 'C:\Users\ASUS\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-01-31 11:37:46,249 [INFO] VSL Backend released
+2026-01-31 11:41:20,732 [INFO] VSL Backend initialized
+2026-01-31 11:41:21,207 [INFO] Loaded model from ./models/model.p
+2026-01-31 11:41:21,251 [INFO] HandLandmarker initialized
+2026-01-31 11:41:23,533 [INFO] Webcam initialized
+2026-01-31 11:41:23,750 [INFO] Loaded 79199 words into dictionary
+2026-01-31 11:41:23,775 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-31 11:41:23,775 [INFO] Using writeable comtypes cache directory: 'C:\Users\ASUS\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-01-31 11:44:36,289 [INFO] VSL Backend released
+2026-01-31 12:39:14,470 [INFO] VSL Backend initialized
+2026-01-31 12:39:23,924 [INFO] Loaded model from ./models/model.p
+2026-01-31 12:39:24,148 [INFO] HandLandmarker initialized
+2026-01-31 12:39:27,336 [INFO] Webcam initialized
+2026-01-31 12:39:27,608 [WARNING] High latency detected: 268.6ms
+2026-01-31 12:39:38,416 [INFO] Performance Stats: FPS=28.3, Avg Latency=26.2ms, Max Latency=70.4ms, Confirmed Chars=0, False Positives=0
+2026-01-31 12:39:42,019 [INFO] Confirmed character: b after 15 frames
+2026-01-31 12:39:43,395 [INFO] Confirmed character: dd after 15 frames
+2026-01-31 12:39:43,892 [INFO] Confirmed character: dd after 15 frames
+2026-01-31 12:39:44,595 [INFO] Confirmed character: s after 15 frames
+2026-01-31 12:39:46,883 [INFO] Confirmed character: dd after 15 frames
+2026-01-31 12:39:47,379 [INFO] Confirmed character: dd after 15 frames
+2026-01-31 12:39:47,875 [INFO] Confirmed character: dd after 15 frames
+2026-01-31 12:39:48,386 [INFO] Confirmed character: dd after 15 frames
+2026-01-31 12:39:48,386 [INFO] Performance Stats: FPS=29.9, Avg Latency=22.6ms, Max Latency=56.5ms, Confirmed Chars=8, False Positives=0
+2026-01-31 12:39:48,881 [INFO] Confirmed character: dd after 15 frames
+2026-01-31 12:39:49,382 [INFO] Confirmed character: dd after 15 frames
+2026-01-31 12:39:49,891 [INFO] Confirmed character: dd after 15 frames
+2026-01-31 12:39:50,387 [INFO] Confirmed character: dd after 15 frames
+2026-01-31 12:39:51,458 [INFO] Confirmed character: s after 15 frames
+2026-01-31 12:39:55,252 [INFO] Confirmed character: d after 15 frames
+2026-01-31 12:39:56,082 [INFO] Confirmed character: d after 15 frames
+2026-01-31 12:39:58,385 [INFO] Performance Stats: FPS=29.5, Avg Latency=22.6ms, Max Latency=40.9ms, Confirmed Chars=15, False Positives=0
+2026-01-31 12:40:08,403 [INFO] Performance Stats: FPS=29.8, Avg Latency=22.6ms, Max Latency=56.6ms, Confirmed Chars=15, False Positives=0
+2026-01-31 12:40:09,171 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:40:10,372 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:40:10,882 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:40:11,378 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:40:18,389 [INFO] Performance Stats: FPS=30.8, Avg Latency=22.7ms, Max Latency=60.4ms, Confirmed Chars=19, False Positives=0
+2026-01-31 12:40:27,783 [INFO] VSL Backend released
+2026-01-31 12:42:14,460 [INFO] VSL Backend initialized
+2026-01-31 12:42:14,938 [INFO] Loaded model from ./models/model.p
+2026-01-31 12:42:14,979 [INFO] HandLandmarker initialized
+2026-01-31 12:42:17,335 [INFO] Webcam initialized
+2026-01-31 12:42:17,676 [INFO] Loaded 79199 words into dictionary
+2026-01-31 12:42:18,192 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-31 12:42:18,192 [INFO] Using writeable comtypes cache directory: 'C:\Users\ASUS\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-01-31 12:42:19,386 [WARNING] Low FPS detected: 0.5
+2026-01-31 12:42:19,386 [WARNING] High latency detected: 204.7ms
+2026-01-31 12:42:20,388 [WARNING] Low FPS detected: 20.0
+2026-01-31 12:42:28,367 [INFO] VSL Backend released
+2026-01-31 12:42:41,272 [INFO] VSL Backend initialized
+2026-01-31 12:42:41,745 [INFO] Loaded model from ./models/model.p
+2026-01-31 12:42:41,786 [INFO] HandLandmarker initialized
+2026-01-31 12:42:44,081 [INFO] Webcam initialized
+2026-01-31 12:42:44,292 [INFO] Loaded 79199 words into dictionary
+2026-01-31 12:42:44,317 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-31 12:42:44,318 [INFO] Using writeable comtypes cache directory: 'C:\Users\ASUS\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-01-31 12:42:45,069 [WARNING] High latency detected: 200.7ms
+2026-01-31 12:42:45,132 [WARNING] Low FPS detected: 1.9
+2026-01-31 12:42:50,291 [WARNING] Low FPS detected: 18.9
+2026-01-31 12:42:51,332 [WARNING] Low FPS detected: 17.3
+2026-01-31 12:42:52,313 [INFO] Confirmed character: b after 15 frames
+2026-01-31 12:42:52,375 [WARNING] Low FPS detected: 18.2
+2026-01-31 12:42:53,426 [WARNING] Low FPS detected: 19.0
+2026-01-31 12:42:54,456 [WARNING] Low FPS detected: 17.5
+2026-01-31 12:42:55,477 [WARNING] Low FPS detected: 18.6
+2026-01-31 12:42:56,206 [WARNING] High latency detected: 111.1ms
+2026-01-31 12:42:56,499 [WARNING] Low FPS detected: 16.6
+2026-01-31 12:42:57,525 [WARNING] Low FPS detected: 18.5
+2026-01-31 12:42:58,538 [WARNING] Low FPS detected: 19.7
+2026-01-31 12:42:59,584 [WARNING] Low FPS detected: 19.1
+2026-01-31 12:43:00,616 [WARNING] Low FPS detected: 19.4
+2026-01-31 12:43:00,771 [INFO] Performance Stats: FPS=19.4, Avg Latency=15.7ms, Max Latency=111.1ms, Confirmed Chars=1, False Positives=0
+2026-01-31 12:43:01,660 [WARNING] Low FPS detected: 19.1
+2026-01-31 12:43:02,701 [WARNING] Low FPS detected: 19.2
+2026-01-31 12:43:03,730 [WARNING] Low FPS detected: 19.4
+2026-01-31 12:43:04,753 [WARNING] Low FPS detected: 18.6
+2026-01-31 12:43:05,766 [WARNING] Low FPS detected: 17.8
+2026-01-31 12:43:06,807 [WARNING] Low FPS detected: 18.3
+2026-01-31 12:43:07,835 [WARNING] Low FPS detected: 19.5
+2026-01-31 12:43:08,850 [WARNING] Low FPS detected: 18.7
+2026-01-31 12:43:09,320 [INFO] Confirmed character: p after 15 frames
+2026-01-31 12:43:09,875 [WARNING] Low FPS detected: 17.6
+2026-01-31 12:43:10,112 [INFO] Confirmed character: p after 15 frames
+2026-01-31 12:43:10,892 [INFO] Confirmed character: p after 15 frames
+2026-01-31 12:43:10,892 [WARNING] Low FPS detected: 19.7
+2026-01-31 12:43:11,732 [INFO] Confirmed character: p after 15 frames
+2026-01-31 12:43:11,934 [WARNING] Low FPS detected: 18.2
+2026-01-31 12:43:12,936 [WARNING] Low FPS detected: 19.0
+2026-01-31 12:43:13,992 [WARNING] Low FPS detected: 18.0
+2026-01-31 12:43:15,001 [WARNING] Low FPS detected: 18.8
+2026-01-31 12:43:16,034 [WARNING] Low FPS detected: 17.4
+2026-01-31 12:43:16,903 [INFO] Performance Stats: FPS=17.4, Avg Latency=15.0ms, Max Latency=24.1ms, Confirmed Chars=5, False Positives=0
+2026-01-31 12:43:17,075 [WARNING] Low FPS detected: 18.2
+2026-01-31 12:43:18,080 [WARNING] Low FPS detected: 17.9
+2026-01-31 12:43:19,123 [WARNING] Low FPS detected: 16.3
+2026-01-31 12:43:20,132 [WARNING] Low FPS detected: 18.8
+2026-01-31 12:43:21,175 [WARNING] Low FPS detected: 18.2
+2026-01-31 12:43:22,195 [WARNING] Low FPS detected: 18.6
+2026-01-31 12:43:24,219 [WARNING] Low FPS detected: 19.8
+2026-01-31 12:43:24,919 [INFO] Confirmed character: a after 15 frames
+2026-01-31 12:43:25,243 [WARNING] Low FPS detected: 18.6
+2026-01-31 12:43:25,741 [INFO] Confirmed character: a after 15 frames
+2026-01-31 12:43:26,285 [WARNING] Low FPS detected: 18.2
+2026-01-31 12:43:26,534 [INFO] Confirmed character: a after 15 frames
+2026-01-31 12:43:31,428 [WARNING] Low FPS detected: 19.7
+2026-01-31 12:43:31,819 [INFO] Confirmed character: b after 15 frames
+2026-01-31 12:43:32,469 [WARNING] Low FPS detected: 19.2
+2026-01-31 12:43:32,469 [INFO] Performance Stats: FPS=19.2, Avg Latency=13.6ms, Max Latency=26.0ms, Confirmed Chars=9, False Positives=0
+2026-01-31 12:43:35,570 [WARNING] Low FPS detected: 18.5
+2026-01-31 12:43:35,989 [INFO] Confirmed character: c after 15 frames
+2026-01-31 12:43:36,579 [WARNING] Low FPS detected: 17.9
+2026-01-31 12:43:39,684 [WARNING] Low FPS detected: 19.6
+2026-01-31 12:43:40,235 [INFO] Confirmed character: l after 15 frames
+2026-01-31 12:43:40,721 [WARNING] Low FPS detected: 19.3
+2026-01-31 12:43:41,779 [WARNING] Low FPS detected: 17.9
+2026-01-31 12:43:42,824 [WARNING] Low FPS detected: 19.1
+2026-01-31 12:43:43,856 [WARNING] Low FPS detected: 18.4
+2026-01-31 12:43:44,074 [INFO] Confirmed character: d after 15 frames
+2026-01-31 12:43:44,901 [WARNING] Low FPS detected: 19.1
+2026-01-31 12:43:45,903 [WARNING] Low FPS detected: 19.0
+2026-01-31 12:43:46,913 [WARNING] Low FPS detected: 19.8
+2026-01-31 12:43:47,800 [INFO] Performance Stats: FPS=19.8, Avg Latency=14.0ms, Max Latency=23.3ms, Confirmed Chars=12, False Positives=0
+2026-01-31 12:43:59,200 [WARNING] Low FPS detected: 18.5
+2026-01-31 12:43:59,419 [INFO] Confirmed character: dd after 15 frames
+2026-01-31 12:44:00,245 [INFO] Confirmed character: dd after 15 frames
+2026-01-31 12:44:00,245 [WARNING] Low FPS detected: 18.2
+2026-01-31 12:44:02,501 [INFO] Performance Stats: FPS=21.1, Avg Latency=13.9ms, Max Latency=23.4ms, Confirmed Chars=14, False Positives=0
+2026-01-31 12:44:04,397 [WARNING] Low FPS detected: 19.9
+2026-01-31 12:44:05,336 [INFO] Confirmed character: e after 15 frames
+2026-01-31 12:44:05,431 [WARNING] Low FPS detected: 19.3
+2026-01-31 12:44:06,113 [INFO] Confirmed character: e after 15 frames
+2026-01-31 12:44:06,446 [WARNING] Low FPS detected: 18.7
+2026-01-31 12:44:09,563 [WARNING] Low FPS detected: 19.0
+2026-01-31 12:44:10,567 [WARNING] Low FPS detected: 17.9
+2026-01-31 12:44:11,624 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:44:11,625 [WARNING] Low FPS detected: 18.9
+2026-01-31 12:44:12,636 [WARNING] Low FPS detected: 19.8
+2026-01-31 12:44:17,420 [INFO] Performance Stats: FPS=21.3, Avg Latency=12.8ms, Max Latency=19.9ms, Confirmed Chars=17, False Positives=0
+2026-01-31 12:44:19,062 [INFO] Confirmed character: k after 15 frames
+2026-01-31 12:44:22,649 [WARNING] Low FPS detected: 4.5
+2026-01-31 12:44:25,531 [WARNING] Low FPS detected: 1.0
+2026-01-31 12:44:29,635 [WARNING] Low FPS detected: 19.4
+2026-01-31 12:44:30,678 [WARNING] Low FPS detected: 19.2
+2026-01-31 12:44:34,783 [WARNING] Low FPS detected: 19.7
+2026-01-31 12:44:36,042 [INFO] Performance Stats: FPS=21.5, Avg Latency=13.1ms, Max Latency=31.0ms, Confirmed Chars=18, False Positives=0
+2026-01-31 12:44:40,890 [INFO] Confirmed character: o after 15 frames
+2026-01-31 12:44:40,937 [WARNING] Low FPS detected: 19.7
+2026-01-31 12:44:41,683 [INFO] Confirmed character: o after 15 frames
+2026-01-31 12:44:41,981 [WARNING] Low FPS detected: 19.2
+2026-01-31 12:44:42,478 [INFO] Confirmed character: o after 15 frames
+2026-01-31 12:44:43,007 [WARNING] Low FPS detected: 18.5
+2026-01-31 12:44:43,256 [INFO] Confirmed character: o after 15 frames
+2026-01-31 12:44:44,038 [WARNING] Low FPS detected: 19.4
+2026-01-31 12:44:50,742 [INFO] Performance Stats: FPS=21.3, Avg Latency=13.0ms, Max Latency=27.5ms, Confirmed Chars=22, False Positives=0
+2026-01-31 12:44:52,243 [WARNING] Low FPS detected: 19.7
+2026-01-31 12:44:53,258 [WARNING] Low FPS detected: 18.7
+2026-01-31 12:44:54,318 [WARNING] Low FPS detected: 18.9
+2026-01-31 12:44:58,468 [WARNING] Low FPS detected: 19.0
+2026-01-31 12:44:59,523 [WARNING] Low FPS detected: 18.0
+2026-01-31 12:45:00,563 [WARNING] Low FPS detected: 18.3
+2026-01-31 12:45:01,567 [WARNING] Low FPS detected: 19.9
+2026-01-31 12:45:05,806 [INFO] Performance Stats: FPS=21.1, Avg Latency=12.8ms, Max Latency=28.6ms, Confirmed Chars=22, False Positives=0
+2026-01-31 12:45:12,914 [WARNING] Low FPS detected: 19.2
+2026-01-31 12:45:13,958 [WARNING] Low FPS detected: 19.2
+2026-01-31 12:45:20,316 [INFO] Performance Stats: FPS=20.7, Avg Latency=13.0ms, Max Latency=41.7ms, Confirmed Chars=22, False Positives=0
+2026-01-31 12:45:24,221 [WARNING] Low FPS detected: 18.7
+2026-01-31 12:45:25,234 [WARNING] Low FPS detected: 19.7
+2026-01-31 12:45:27,320 [WARNING] Low FPS detected: 19.2
+2026-01-31 12:45:29,419 [WARNING] Low FPS detected: 14.2
+2026-01-31 12:45:30,479 [WARNING] Low FPS detected: 14.1
+2026-01-31 12:45:31,496 [WARNING] Low FPS detected: 14.8
+2026-01-31 12:45:32,561 [WARNING] Low FPS detected: 14.1
+2026-01-31 12:45:33,626 [WARNING] Low FPS detected: 13.1
+2026-01-31 12:45:34,673 [WARNING] Low FPS detected: 14.3
+2026-01-31 12:45:35,675 [WARNING] Low FPS detected: 13.0
+2026-01-31 12:45:36,723 [WARNING] Low FPS detected: 13.4
+2026-01-31 12:45:37,786 [WARNING] Low FPS detected: 14.1
+2026-01-31 12:45:38,218 [INFO] Performance Stats: FPS=14.1, Avg Latency=33.8ms, Max Latency=69.1ms, Confirmed Chars=22, False Positives=0
+2026-01-31 12:45:38,813 [WARNING] Low FPS detected: 13.6
+2026-01-31 12:45:39,860 [WARNING] Low FPS detected: 13.4
+2026-01-31 12:45:40,879 [WARNING] Low FPS detected: 14.7
+2026-01-31 12:45:41,889 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:45:42,932 [WARNING] Low FPS detected: 13.4
+2026-01-31 12:45:43,951 [WARNING] Low FPS detected: 13.7
+2026-01-31 12:45:45,023 [WARNING] Low FPS detected: 14.0
+2026-01-31 12:45:46,090 [WARNING] Low FPS detected: 13.1
+2026-01-31 12:45:47,096 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:45:48,127 [WARNING] Low FPS detected: 13.6
+2026-01-31 12:45:49,184 [WARNING] Low FPS detected: 13.2
+2026-01-31 12:45:50,246 [WARNING] Low FPS detected: 13.2
+2026-01-31 12:45:51,297 [WARNING] Low FPS detected: 11.4
+2026-01-31 12:45:52,358 [WARNING] Low FPS detected: 15.1
+2026-01-31 12:45:53,418 [WARNING] Low FPS detected: 15.1
+2026-01-31 12:45:54,431 [WARNING] Low FPS detected: 14.8
+2026-01-31 12:45:55,453 [WARNING] Low FPS detected: 14.7
+2026-01-31 12:45:56,501 [WARNING] Low FPS detected: 14.3
+2026-01-31 12:45:57,556 [WARNING] Low FPS detected: 14.2
+2026-01-31 12:45:58,598 [WARNING] Low FPS detected: 13.4
+2026-01-31 12:45:59,610 [WARNING] Low FPS detected: 13.8
+2026-01-31 12:45:59,900 [INFO] Performance Stats: FPS=13.8, Avg Latency=32.1ms, Max Latency=49.2ms, Confirmed Chars=22, False Positives=0
+2026-01-31 12:46:00,623 [WARNING] Low FPS detected: 13.8
+2026-01-31 12:46:01,659 [WARNING] Low FPS detected: 14.5
+2026-01-31 12:46:02,666 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:46:03,666 [WARNING] Low FPS detected: 13.0
+2026-01-31 12:46:04,691 [WARNING] Low FPS detected: 12.7
+2026-01-31 12:46:05,767 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:46:06,775 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:46:07,797 [WARNING] Low FPS detected: 13.7
+2026-01-31 12:46:08,852 [WARNING] Low FPS detected: 14.2
+2026-01-31 12:46:09,868 [WARNING] Low FPS detected: 13.8
+2026-01-31 12:46:10,924 [WARNING] Low FPS detected: 14.2
+2026-01-31 12:46:11,934 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:46:12,951 [WARNING] Low FPS detected: 13.8
+2026-01-31 12:46:13,955 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:46:14,993 [WARNING] Low FPS detected: 12.5
+2026-01-31 12:46:16,028 [WARNING] Low FPS detected: 12.6
+2026-01-31 12:46:17,108 [WARNING] Low FPS detected: 12.0
+2026-01-31 12:46:18,115 [WARNING] Low FPS detected: 12.9
+2026-01-31 12:46:19,172 [WARNING] Low FPS detected: 13.2
+2026-01-31 12:46:20,244 [WARNING] Low FPS detected: 12.1
+2026-01-31 12:46:21,264 [WARNING] Low FPS detected: 12.7
+2026-01-31 12:46:22,279 [WARNING] Low FPS detected: 12.8
+2026-01-31 12:46:22,361 [INFO] Performance Stats: FPS=12.8, Avg Latency=40.2ms, Max Latency=65.3ms, Confirmed Chars=22, False Positives=0
+2026-01-31 12:46:23,281 [WARNING] Low FPS detected: 14.0
+2026-01-31 12:46:24,311 [WARNING] Low FPS detected: 13.6
+2026-01-31 12:46:25,360 [WARNING] Low FPS detected: 13.3
+2026-01-31 12:46:26,370 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:46:27,406 [WARNING] Low FPS detected: 14.5
+2026-01-31 12:46:28,429 [WARNING] Low FPS detected: 14.7
+2026-01-31 12:46:29,504 [WARNING] Low FPS detected: 14.0
+2026-01-31 12:46:30,532 [WARNING] Low FPS detected: 13.6
+2026-01-31 12:46:31,543 [WARNING] Low FPS detected: 12.9
+2026-01-31 12:46:32,548 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:46:33,550 [WARNING] Low FPS detected: 13.0
+2026-01-31 12:46:34,573 [WARNING] Low FPS detected: 13.7
+2026-01-31 12:46:35,632 [WARNING] Low FPS detected: 14.2
+2026-01-31 12:46:36,648 [WARNING] Low FPS detected: 14.8
+2026-01-31 12:46:37,705 [WARNING] Low FPS detected: 13.3
+2026-01-31 12:46:38,722 [WARNING] Low FPS detected: 13.8
+2026-01-31 12:46:39,765 [WARNING] Low FPS detected: 14.4
+2026-01-31 12:46:40,816 [WARNING] Low FPS detected: 14.3
+2026-01-31 12:46:41,832 [WARNING] Low FPS detected: 13.8
+2026-01-31 12:46:42,915 [WARNING] Low FPS detected: 12.9
+2026-01-31 12:46:43,963 [WARNING] Low FPS detected: 13.4
+2026-01-31 12:46:44,101 [INFO] Performance Stats: FPS=13.4, Avg Latency=33.2ms, Max Latency=51.2ms, Confirmed Chars=22, False Positives=0
+2026-01-31 12:46:44,971 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:46:45,987 [WARNING] Low FPS detected: 13.8
+2026-01-31 12:46:46,999 [WARNING] Low FPS detected: 12.8
+2026-01-31 12:46:48,061 [WARNING] Low FPS detected: 13.2
+2026-01-31 12:46:49,094 [WARNING] Low FPS detected: 14.5
+2026-01-31 12:46:50,101 [WARNING] Low FPS detected: 14.9
+2026-01-31 12:46:51,159 [WARNING] Low FPS detected: 15.1
+2026-01-31 12:46:52,166 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:46:53,196 [WARNING] Low FPS detected: 14.6
+2026-01-31 12:46:54,238 [WARNING] Low FPS detected: 15.4
+2026-01-31 12:46:55,270 [WARNING] Low FPS detected: 14.5
+2026-01-31 12:46:56,292 [WARNING] Low FPS detected: 13.7
+2026-01-31 12:46:57,302 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:46:58,366 [WARNING] Low FPS detected: 14.1
+2026-01-31 12:46:59,422 [WARNING] Low FPS detected: 14.2
+2026-01-31 12:47:00,474 [WARNING] Low FPS detected: 14.3
+2026-01-31 12:47:01,476 [WARNING] Low FPS detected: 14.0
+2026-01-31 12:47:02,498 [WARNING] Low FPS detected: 13.7
+2026-01-31 12:47:03,586 [WARNING] Low FPS detected: 12.9
+2026-01-31 12:47:04,621 [WARNING] Low FPS detected: 13.5
+2026-01-31 12:47:05,403 [INFO] Performance Stats: FPS=13.5, Avg Latency=33.2ms, Max Latency=59.7ms, Confirmed Chars=22, False Positives=0
+2026-01-31 12:47:05,668 [WARNING] Low FPS detected: 15.3
+2026-01-31 12:47:06,706 [WARNING] Low FPS detected: 13.5
+2026-01-31 12:47:07,717 [WARNING] Low FPS detected: 13.8
+2026-01-31 12:47:08,718 [WARNING] Low FPS detected: 15.0
+2026-01-31 12:47:09,752 [WARNING] Low FPS detected: 13.5
+2026-01-31 12:47:10,783 [WARNING] Low FPS detected: 14.6
+2026-01-31 12:47:11,849 [WARNING] Low FPS detected: 15.0
+2026-01-31 12:47:12,920 [WARNING] Low FPS detected: 14.0
+2026-01-31 12:47:13,939 [WARNING] Low FPS detected: 13.7
+2026-01-31 12:47:15,010 [WARNING] Low FPS detected: 13.1
+2026-01-31 12:47:16,077 [WARNING] Low FPS detected: 13.1
+2026-01-31 12:47:17,136 [WARNING] Low FPS detected: 13.2
+2026-01-31 12:47:18,197 [WARNING] Low FPS detected: 14.1
+2026-01-31 12:47:19,230 [WARNING] Low FPS detected: 13.6
+2026-01-31 12:47:20,301 [WARNING] Low FPS detected: 13.1
+2026-01-31 12:47:21,327 [WARNING] Low FPS detected: 13.6
+2026-01-31 12:47:22,366 [WARNING] Low FPS detected: 13.5
+2026-01-31 12:47:23,419 [WARNING] Low FPS detected: 12.3
+2026-01-31 12:47:24,471 [WARNING] Low FPS detected: 14.3
+2026-01-31 12:47:25,472 [WARNING] Low FPS detected: 15.0
+2026-01-31 12:47:26,552 [WARNING] Low FPS detected: 13.0
+2026-01-31 12:47:27,201 [INFO] Performance Stats: FPS=13.0, Avg Latency=33.6ms, Max Latency=50.5ms, Confirmed Chars=22, False Positives=0
+2026-01-31 12:47:27,563 [WARNING] Low FPS detected: 13.8
+2026-01-31 12:47:28,611 [WARNING] Low FPS detected: 14.3
+2026-01-31 12:47:29,630 [WARNING] Low FPS detected: 14.7
+2026-01-31 12:47:30,634 [WARNING] Low FPS detected: 14.0
+2026-01-31 12:47:31,678 [WARNING] Low FPS detected: 13.4
+2026-01-31 12:47:32,721 [WARNING] Low FPS detected: 14.4
+2026-01-31 12:47:33,792 [WARNING] Low FPS detected: 13.1
+2026-01-31 12:47:34,841 [WARNING] Low FPS detected: 14.3
+2026-01-31 12:47:35,914 [WARNING] Low FPS detected: 13.1
+2026-01-31 12:47:36,952 [WARNING] Low FPS detected: 13.5
+2026-01-31 12:47:37,975 [WARNING] Low FPS detected: 13.7
+2026-01-31 12:47:39,031 [WARNING] Low FPS detected: 13.3
+2026-01-31 12:47:40,095 [WARNING] Low FPS detected: 14.1
+2026-01-31 12:47:41,156 [WARNING] Low FPS detected: 14.1
+2026-01-31 12:47:42,179 [WARNING] Low FPS detected: 12.7
+2026-01-31 12:47:43,194 [WARNING] Low FPS detected: 13.8
+2026-01-31 12:47:44,272 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:47:45,317 [WARNING] Low FPS detected: 14.4
+2026-01-31 12:47:46,320 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:47:47,321 [WARNING] Low FPS detected: 14.0
+2026-01-31 12:47:48,375 [WARNING] Low FPS detected: 14.2
+2026-01-31 12:47:48,917 [INFO] Performance Stats: FPS=14.2, Avg Latency=32.4ms, Max Latency=48.9ms, Confirmed Chars=22, False Positives=0
+2026-01-31 12:47:49,393 [WARNING] Low FPS detected: 12.8
+2026-01-31 12:47:50,445 [WARNING] Low FPS detected: 13.3
+2026-01-31 12:47:51,480 [WARNING] Low FPS detected: 13.5
+2026-01-31 12:47:52,525 [WARNING] Low FPS detected: 14.3
+2026-01-31 12:47:53,552 [WARNING] Low FPS detected: 14.6
+2026-01-31 12:47:54,611 [WARNING] Low FPS detected: 14.2
+2026-01-31 12:47:55,646 [WARNING] Low FPS detected: 14.5
+2026-01-31 12:47:56,667 [WARNING] Low FPS detected: 13.7
+2026-01-31 12:47:57,724 [WARNING] Low FPS detected: 14.2
+2026-01-31 12:47:58,730 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:47:59,764 [WARNING] Low FPS detected: 13.6
+2026-01-31 12:48:00,794 [WARNING] Low FPS detected: 13.6
+2026-01-31 12:48:01,869 [WARNING] Low FPS detected: 14.0
+2026-01-31 12:48:02,896 [WARNING] Low FPS detected: 13.6
+2026-01-31 12:48:03,906 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:48:04,952 [WARNING] Low FPS detected: 13.4
+2026-01-31 12:48:05,978 [WARNING] Low FPS detected: 13.7
+2026-01-31 12:48:06,990 [WARNING] Low FPS detected: 13.8
+2026-01-31 12:48:08,040 [WARNING] Low FPS detected: 14.3
+2026-01-31 12:48:09,041 [WARNING] Low FPS detected: 16.0
+2026-01-31 12:48:10,049 [WARNING] Low FPS detected: 14.9
+2026-01-31 12:48:10,314 [INFO] Performance Stats: FPS=14.9, Avg Latency=30.7ms, Max Latency=43.2ms, Confirmed Chars=22, False Positives=0
+2026-01-31 12:48:11,066 [WARNING] Low FPS detected: 13.8
+2026-01-31 12:48:12,108 [WARNING] Low FPS detected: 14.4
+2026-01-31 12:48:13,114 [WARNING] Low FPS detected: 15.9
+2026-01-31 12:48:13,563 [INFO] Confirmed character: o after 15 frames
+2026-01-31 12:48:14,140 [WARNING] Low FPS detected: 19.5
+2026-01-31 12:48:15,151 [WARNING] Low FPS detected: 18.8
+2026-01-31 12:48:16,212 [WARNING] Low FPS detected: 17.0
+2026-01-31 12:48:17,255 [WARNING] Low FPS detected: 17.3
+2026-01-31 12:48:18,293 [WARNING] Low FPS detected: 17.3
+2026-01-31 12:48:19,297 [WARNING] Low FPS detected: 18.9
+2026-01-31 12:48:20,326 [WARNING] Low FPS detected: 16.5
+2026-01-31 12:48:21,350 [WARNING] Low FPS detected: 14.7
+2026-01-31 12:48:22,381 [WARNING] Low FPS detected: 17.5
+2026-01-31 12:48:27,359 [INFO] Performance Stats: FPS=20.2, Avg Latency=15.9ms, Max Latency=32.4ms, Confirmed Chars=23, False Positives=0
+2026-01-31 12:48:27,483 [WARNING] Low FPS detected: 14.8
+2026-01-31 12:48:28,495 [WARNING] Low FPS detected: 13.8
+2026-01-31 12:48:29,540 [WARNING] Low FPS detected: 14.4
+2026-01-31 12:48:30,540 [WARNING] Low FPS detected: 14.0
+2026-01-31 12:48:31,580 [WARNING] Low FPS detected: 13.5
+2026-01-31 12:48:32,590 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:48:33,658 [WARNING] Low FPS detected: 13.1
+2026-01-31 12:48:34,741 [WARNING] Low FPS detected: 12.9
+2026-01-31 12:48:35,771 [WARNING] Low FPS detected: 13.6
+2026-01-31 12:48:36,771 [WARNING] Low FPS detected: 14.0
+2026-01-31 12:48:37,851 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:48:38,904 [WARNING] Low FPS detected: 14.2
+2026-01-31 12:48:39,962 [WARNING] Low FPS detected: 14.2
+2026-01-31 12:48:40,969 [WARNING] Low FPS detected: 12.9
+2026-01-31 12:48:42,005 [WARNING] Low FPS detected: 15.4
+2026-01-31 12:48:43,032 [WARNING] Low FPS detected: 13.6
+2026-01-31 12:48:44,073 [WARNING] Low FPS detected: 13.4
+2026-01-31 12:48:45,121 [WARNING] Low FPS detected: 14.3
+2026-01-31 12:48:46,191 [WARNING] Low FPS detected: 14.0
+2026-01-31 12:48:47,254 [WARNING] Low FPS detected: 14.1
+2026-01-31 12:48:48,312 [WARNING] Low FPS detected: 13.2
+2026-01-31 12:48:49,026 [INFO] Performance Stats: FPS=13.2, Avg Latency=32.5ms, Max Latency=49.1ms, Confirmed Chars=23, False Positives=0
+2026-01-31 12:48:49,338 [WARNING] Low FPS detected: 14.6
+2026-01-31 12:48:50,383 [WARNING] Low FPS detected: 14.4
+2026-01-31 12:48:51,406 [WARNING] Low FPS detected: 13.7
+2026-01-31 12:48:52,429 [WARNING] Low FPS detected: 14.7
+2026-01-31 12:48:53,439 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:48:54,499 [WARNING] Low FPS detected: 13.2
+2026-01-31 12:48:55,541 [WARNING] Low FPS detected: 13.4
+2026-01-31 12:48:56,604 [WARNING] Low FPS detected: 14.1
+2026-01-31 12:48:57,631 [WARNING] Low FPS detected: 14.6
+2026-01-31 12:48:58,674 [WARNING] Low FPS detected: 14.4
+2026-01-31 12:48:59,736 [WARNING] Low FPS detected: 14.1
+2026-01-31 12:49:00,789 [WARNING] Low FPS detected: 13.3
+2026-01-31 12:49:01,808 [WARNING] Low FPS detected: 12.8
+2026-01-31 12:49:02,844 [WARNING] Low FPS detected: 12.6
+2026-01-31 12:49:03,860 [WARNING] Low FPS detected: 13.8
+2026-01-31 12:49:04,872 [WARNING] Low FPS detected: 13.8
+2026-01-31 12:49:05,898 [WARNING] Low FPS detected: 12.7
+2026-01-31 12:49:06,964 [WARNING] Low FPS detected: 14.1
+2026-01-31 12:49:08,007 [WARNING] Low FPS detected: 14.4
+2026-01-31 12:49:09,023 [WARNING] Low FPS detected: 13.8
+2026-01-31 12:49:10,049 [WARNING] Low FPS detected: 13.7
+2026-01-31 12:49:10,792 [INFO] Performance Stats: FPS=13.7, Avg Latency=33.6ms, Max Latency=54.8ms, Confirmed Chars=23, False Positives=0
+2026-01-31 12:49:11,086 [WARNING] Low FPS detected: 13.5
+2026-01-31 12:49:12,149 [WARNING] Low FPS detected: 14.1
+2026-01-31 12:49:13,191 [WARNING] Low FPS detected: 14.4
+2026-01-31 12:49:14,253 [WARNING] Low FPS detected: 14.1
+2026-01-31 12:49:15,276 [WARNING] Low FPS detected: 13.7
+2026-01-31 12:49:16,334 [WARNING] Low FPS detected: 14.2
+2026-01-31 12:49:17,367 [WARNING] Low FPS detected: 15.5
+2026-01-31 12:49:18,428 [WARNING] Low FPS detected: 14.1
+2026-01-31 12:49:19,442 [WARNING] Low FPS detected: 13.8
+2026-01-31 12:49:20,475 [WARNING] Low FPS detected: 13.6
+2026-01-31 12:49:21,540 [WARNING] Low FPS detected: 14.1
+2026-01-31 12:49:22,603 [WARNING] Low FPS detected: 15.1
+2026-01-31 12:49:23,654 [WARNING] Low FPS detected: 13.3
+2026-01-31 12:49:24,674 [WARNING] Low FPS detected: 13.7
+2026-01-31 12:49:25,684 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:49:26,734 [WARNING] Low FPS detected: 14.3
+2026-01-31 12:49:27,795 [WARNING] Low FPS detected: 14.1
+2026-01-31 12:49:28,865 [WARNING] Low FPS detected: 14.0
+2026-01-31 12:49:29,932 [WARNING] Low FPS detected: 13.1
+2026-01-31 12:49:30,942 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:49:32,000 [WARNING] Low FPS detected: 14.2
+2026-01-31 12:49:32,140 [INFO] Performance Stats: FPS=14.2, Avg Latency=32.3ms, Max Latency=54.2ms, Confirmed Chars=23, False Positives=0
+2026-01-31 12:49:33,062 [WARNING] Low FPS detected: 14.1
+2026-01-31 12:49:34,120 [WARNING] Low FPS detected: 14.2
+2026-01-31 12:49:35,172 [WARNING] Low FPS detected: 14.3
+2026-01-31 12:49:36,221 [WARNING] Low FPS detected: 14.3
+2026-01-31 12:49:37,289 [WARNING] Low FPS detected: 14.0
+2026-01-31 12:49:38,320 [WARNING] Low FPS detected: 13.6
+2026-01-31 12:49:39,379 [WARNING] Low FPS detected: 14.2
+2026-01-31 12:49:40,442 [WARNING] Low FPS detected: 14.1
+2026-01-31 12:49:41,442 [WARNING] Low FPS detected: 14.0
+2026-01-31 12:49:42,513 [WARNING] Low FPS detected: 14.9
+2026-01-31 12:49:43,539 [WARNING] Low FPS detected: 14.6
+2026-01-31 12:49:44,583 [WARNING] Low FPS detected: 15.3
+2026-01-31 12:49:45,654 [WARNING] Low FPS detected: 14.0
+2026-01-31 12:49:46,698 [WARNING] Low FPS detected: 13.4
+2026-01-31 12:49:47,712 [WARNING] Low FPS detected: 12.8
+2026-01-31 12:49:48,741 [WARNING] Low FPS detected: 14.6
+2026-01-31 12:49:49,800 [WARNING] Low FPS detected: 14.2
+2026-01-31 12:49:50,833 [WARNING] Low FPS detected: 13.5
+2026-01-31 12:49:51,845 [WARNING] Low FPS detected: 10.9
+2026-01-31 12:49:52,906 [WARNING] Low FPS detected: 12.3
+2026-01-31 12:49:53,857 [INFO] Performance Stats: FPS=12.3, Avg Latency=36.8ms, Max Latency=65.1ms, Confirmed Chars=23, False Positives=0
+2026-01-31 12:49:53,934 [WARNING] Low FPS detected: 12.6
+2026-01-31 12:49:54,942 [WARNING] Low FPS detected: 11.9
+2026-01-31 12:49:55,984 [WARNING] Low FPS detected: 12.5
+2026-01-31 12:49:57,050 [WARNING] Low FPS detected: 12.2
+2026-01-31 12:49:58,106 [WARNING] Low FPS detected: 13.3
+2026-01-31 12:49:59,114 [WARNING] Low FPS detected: 12.9
+2026-01-31 12:50:00,144 [WARNING] Low FPS detected: 12.6
+2026-01-31 12:50:01,175 [WARNING] Low FPS detected: 12.6
+2026-01-31 12:50:02,230 [WARNING] Low FPS detected: 14.2
+2026-01-31 12:50:03,295 [WARNING] Low FPS detected: 14.1
+2026-01-31 12:50:04,304 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:50:05,368 [WARNING] Low FPS detected: 14.1
+2026-01-31 12:50:06,385 [WARNING] Low FPS detected: 13.8
+2026-01-31 12:50:07,414 [WARNING] Low FPS detected: 13.6
+2026-01-31 12:50:08,422 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:50:09,471 [WARNING] Low FPS detected: 13.4
+2026-01-31 12:50:10,479 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:50:11,509 [WARNING] Low FPS detected: 14.6
+2026-01-31 12:50:12,538 [WARNING] Low FPS detected: 14.6
+2026-01-31 12:50:13,625 [WARNING] Low FPS detected: 12.9
+2026-01-31 12:50:14,681 [WARNING] Low FPS detected: 13.3
+2026-01-31 12:50:15,710 [WARNING] Low FPS detected: 14.6
+2026-01-31 12:50:16,182 [INFO] Performance Stats: FPS=14.6, Avg Latency=32.6ms, Max Latency=52.2ms, Confirmed Chars=23, False Positives=0
+2026-01-31 12:50:16,751 [WARNING] Low FPS detected: 13.5
+2026-01-31 12:50:17,795 [WARNING] Low FPS detected: 14.4
+2026-01-31 12:50:18,839 [WARNING] Low FPS detected: 14.4
+2026-01-31 12:50:19,880 [WARNING] Low FPS detected: 14.4
+2026-01-31 12:50:20,892 [WARNING] Low FPS detected: 13.8
+2026-01-31 12:50:21,938 [WARNING] Low FPS detected: 14.3
+2026-01-31 12:50:22,945 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:50:23,967 [WARNING] Low FPS detected: 13.7
+2026-01-31 12:50:25,025 [WARNING] Low FPS detected: 13.2
+2026-01-31 12:50:26,032 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:50:27,090 [WARNING] Low FPS detected: 14.2
+2026-01-31 12:50:28,107 [WARNING] Low FPS detected: 14.8
+2026-01-31 12:50:29,171 [WARNING] Low FPS detected: 14.1
+2026-01-31 12:50:30,224 [WARNING] Low FPS detected: 14.3
+2026-01-31 12:50:31,263 [WARNING] Low FPS detected: 14.4
+2026-01-31 12:50:32,320 [WARNING] Low FPS detected: 14.2
+2026-01-31 12:50:33,330 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:50:34,358 [WARNING] Low FPS detected: 14.6
+2026-01-31 12:50:35,406 [WARNING] Low FPS detected: 13.4
+2026-01-31 12:50:36,462 [WARNING] Low FPS detected: 13.2
+2026-01-31 12:50:37,515 [WARNING] Low FPS detected: 14.3
+2026-01-31 12:50:37,515 [INFO] Performance Stats: FPS=14.3, Avg Latency=32.3ms, Max Latency=56.2ms, Confirmed Chars=23, False Positives=0
+2026-01-31 12:50:38,580 [WARNING] Low FPS detected: 14.1
+2026-01-31 12:50:39,590 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:50:40,623 [WARNING] Low FPS detected: 13.6
+2026-01-31 12:50:41,671 [WARNING] Low FPS detected: 14.3
+2026-01-31 12:50:42,715 [WARNING] Low FPS detected: 11.5
+2026-01-31 12:50:43,765 [WARNING] Low FPS detected: 13.3
+2026-01-31 12:50:44,789 [WARNING] Low FPS detected: 12.7
+2026-01-31 12:50:45,830 [WARNING] Low FPS detected: 13.4
+2026-01-31 12:50:46,877 [WARNING] Low FPS detected: 13.4
+2026-01-31 12:50:47,878 [WARNING] Low FPS detected: 14.0
+2026-01-31 12:50:48,954 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:50:50,013 [WARNING] Low FPS detected: 14.2
+2026-01-31 12:50:51,081 [WARNING] Low FPS detected: 14.0
+2026-01-31 12:50:52,127 [WARNING] Low FPS detected: 14.3
+2026-01-31 12:50:53,143 [WARNING] Low FPS detected: 14.8
+2026-01-31 12:50:54,151 [WARNING] Low FPS detected: 14.9
+2026-01-31 12:50:55,187 [WARNING] Low FPS detected: 13.5
+2026-01-31 12:50:56,189 [WARNING] Low FPS detected: 14.0
+2026-01-31 12:50:57,216 [WARNING] Low FPS detected: 14.6
+2026-01-31 12:50:58,230 [WARNING] Low FPS detected: 13.8
+2026-01-31 12:50:59,290 [WARNING] Low FPS detected: 12.3
+2026-01-31 12:50:59,370 [INFO] Performance Stats: FPS=12.3, Avg Latency=33.1ms, Max Latency=58.3ms, Confirmed Chars=23, False Positives=0
+2026-01-31 12:51:00,340 [WARNING] Low FPS detected: 13.3
+2026-01-31 12:51:01,411 [WARNING] Low FPS detected: 14.0
+2026-01-31 12:51:02,455 [WARNING] Low FPS detected: 13.4
+2026-01-31 12:51:03,523 [WARNING] Low FPS detected: 14.0
+2026-01-31 12:51:04,540 [WARNING] Low FPS detected: 13.8
+2026-01-31 12:51:05,585 [WARNING] Low FPS detected: 13.4
+2026-01-31 12:51:06,612 [WARNING] Low FPS detected: 13.6
+2026-01-31 12:51:07,633 [WARNING] Low FPS detected: 13.7
+2026-01-31 12:51:08,686 [WARNING] Low FPS detected: 13.3
+2026-01-31 12:51:09,730 [WARNING] Low FPS detected: 15.3
+2026-01-31 12:51:10,767 [WARNING] Low FPS detected: 13.5
+2026-01-31 12:51:11,784 [WARNING] Low FPS detected: 13.8
+2026-01-31 12:51:12,850 [WARNING] Low FPS detected: 13.1
+2026-01-31 12:51:13,919 [WARNING] Low FPS detected: 13.1
+2026-01-31 12:51:14,942 [WARNING] Low FPS detected: 12.7
+2026-01-31 12:51:15,964 [WARNING] Low FPS detected: 12.7
+2026-01-31 12:51:16,996 [WARNING] Low FPS detected: 12.6
+2026-01-31 12:51:18,072 [WARNING] Low FPS detected: 13.0
+2026-01-31 12:51:19,138 [WARNING] Low FPS detected: 13.1
+2026-01-31 12:51:20,192 [WARNING] Low FPS detected: 13.3
+2026-01-31 12:51:21,249 [WARNING] Low FPS detected: 13.2
+2026-01-31 12:51:21,720 [INFO] Performance Stats: FPS=13.2, Avg Latency=36.3ms, Max Latency=53.4ms, Confirmed Chars=23, False Positives=0
+2026-01-31 12:51:22,263 [WARNING] Low FPS detected: 12.8
+2026-01-31 12:51:22,496 [INFO] Confirmed character: b after 15 frames
+2026-01-31 12:51:23,295 [WARNING] Low FPS detected: 12.6
+2026-01-31 12:51:23,663 [INFO] Confirmed character: b after 15 frames
+2026-01-31 12:51:24,351 [WARNING] Low FPS detected: 13.3
+2026-01-31 12:51:25,367 [WARNING] Low FPS detected: 12.8
+2026-01-31 12:51:26,372 [WARNING] Low FPS detected: 12.9
+2026-01-31 12:51:27,386 [WARNING] Low FPS detected: 14.8
+2026-01-31 12:51:28,432 [WARNING] Low FPS detected: 13.4
+2026-01-31 12:51:29,433 [WARNING] Low FPS detected: 14.0
+2026-01-31 12:51:30,439 [WARNING] Low FPS detected: 12.9
+2026-01-31 12:51:31,452 [WARNING] Low FPS detected: 13.8
+2026-01-31 12:51:32,525 [WARNING] Low FPS detected: 14.0
+2026-01-31 12:51:33,528 [WARNING] Low FPS detected: 14.0
+2026-01-31 12:51:34,584 [WARNING] Low FPS detected: 13.3
+2026-01-31 12:51:35,589 [WARNING] Low FPS detected: 14.9
+2026-01-31 12:51:36,645 [WARNING] Low FPS detected: 13.3
+2026-01-31 12:51:37,660 [WARNING] Low FPS detected: 13.8
+2026-01-31 12:51:38,692 [WARNING] Low FPS detected: 11.6
+2026-01-31 12:51:39,700 [WARNING] Low FPS detected: 12.9
+2026-01-31 12:51:40,789 [WARNING] Low FPS detected: 12.9
+2026-01-31 12:51:41,826 [WARNING] Low FPS detected: 12.5
+2026-01-31 12:51:42,884 [WARNING] Low FPS detected: 13.2
+2026-01-31 12:51:43,945 [WARNING] Low FPS detected: 13.2
+2026-01-31 12:51:44,255 [INFO] Performance Stats: FPS=13.2, Avg Latency=37.6ms, Max Latency=72.6ms, Confirmed Chars=25, False Positives=0
+2026-01-31 12:51:44,482 [INFO] Confirmed character: p after 15 frames
+2026-01-31 12:51:45,005 [WARNING] Low FPS detected: 13.2
+2026-01-31 12:51:46,050 [WARNING] Low FPS detected: 13.4
+2026-01-31 12:51:47,050 [WARNING] Low FPS detected: 13.0
+2026-01-31 12:51:48,059 [WARNING] Low FPS detected: 12.9
+2026-01-31 12:51:49,127 [WARNING] Low FPS detected: 14.0
+2026-01-31 12:51:50,197 [WARNING] Low FPS detected: 12.2
+2026-01-31 12:51:51,255 [WARNING] Low FPS detected: 11.3
+2026-01-31 12:51:52,264 [WARNING] Low FPS detected: 11.9
+2026-01-31 12:51:53,268 [WARNING] Low FPS detected: 12.9
+2026-01-31 12:51:54,312 [WARNING] Low FPS detected: 13.4
+2026-01-31 12:51:55,389 [WARNING] Low FPS detected: 13.0
+2026-01-31 12:51:55,939 [INFO] Confirmed character: p after 15 frames
+2026-01-31 12:51:56,396 [WARNING] Low FPS detected: 12.9
+2026-01-31 12:51:57,066 [INFO] Confirmed character: p after 15 frames
+2026-01-31 12:51:57,447 [WARNING] Low FPS detected: 13.3
+2026-01-31 12:51:58,503 [WARNING] Low FPS detected: 14.2
+2026-01-31 12:51:59,509 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:52:00,589 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:52:01,608 [WARNING] Low FPS detected: 13.7
+2026-01-31 12:52:02,649 [WARNING] Low FPS detected: 14.4
+2026-01-31 12:52:03,651 [WARNING] Low FPS detected: 14.0
+2026-01-31 12:52:04,665 [WARNING] Low FPS detected: 13.8
+2026-01-31 12:52:05,690 [WARNING] Low FPS detected: 13.7
+2026-01-31 12:52:06,739 [WARNING] Low FPS detected: 14.3
+2026-01-31 12:52:06,739 [INFO] Performance Stats: FPS=14.3, Avg Latency=32.3ms, Max Latency=47.3ms, Confirmed Chars=28, False Positives=0
+2026-01-31 12:52:07,744 [WARNING] Low FPS detected: 13.9
+2026-01-31 12:52:08,759 [WARNING] Low FPS detected: 13.8
+2026-01-31 12:52:09,785 [WARNING] Low FPS detected: 14.6
+2026-01-31 12:52:10,840 [WARNING] Low FPS detected: 13.3
+2026-01-31 12:52:11,855 [WARNING] Low FPS detected: 13.8
+2026-01-31 12:52:12,875 [WARNING] Low FPS detected: 13.7
+2026-01-31 12:52:13,890 [INFO] Confirmed character: g after 15 frames
+2026-01-31 12:52:13,890 [WARNING] Low FPS detected: 12.8
+2026-01-31 12:52:14,924 [WARNING] Low FPS detected: 13.5
+2026-01-31 12:52:15,948 [WARNING] Low FPS detected: 12.7
+2026-01-31 12:52:17,011 [WARNING] Low FPS detected: 13.2
+2026-01-31 12:52:18,040 [WARNING] Low FPS detected: 13.6
+2026-01-31 12:52:18,351 [INFO] Confirmed character: p after 15 frames
+2026-01-31 12:52:19,048 [WARNING] Low FPS detected: 15.9
+2026-01-31 12:52:20,110 [WARNING] Low FPS detected: 16.0
+2026-01-31 12:52:21,122 [WARNING] Low FPS detected: 16.8
+2026-01-31 12:52:22,163 [WARNING] Low FPS detected: 17.3
+2026-01-31 12:52:23,203 [WARNING] Low FPS detected: 18.3
+2026-01-31 12:52:26,107 [INFO] Performance Stats: FPS=20.5, Avg Latency=16.4ms, Max Latency=28.9ms, Confirmed Chars=30, False Positives=0
+2026-01-31 12:52:40,329 [INFO] Performance Stats: FPS=20.5, Avg Latency=12.8ms, Max Latency=24.1ms, Confirmed Chars=30, False Positives=0
+2026-01-31 12:52:42,789 [WARNING] Low FPS detected: 19.6
+2026-01-31 12:52:43,837 [WARNING] Low FPS detected: 19.1
+2026-01-31 12:52:47,961 [WARNING] Low FPS detected: 19.2
+2026-01-31 12:52:48,992 [WARNING] Low FPS detected: 18.4
+2026-01-31 12:52:51,074 [WARNING] Low FPS detected: 16.4
+2026-01-31 12:52:55,339 [INFO] Performance Stats: FPS=21.1, Avg Latency=13.4ms, Max Latency=35.9ms, Confirmed Chars=30, False Positives=0
+2026-01-31 12:52:59,321 [WARNING] Low FPS detected: 19.8
+2026-01-31 12:53:00,340 [WARNING] Low FPS detected: 19.6
+2026-01-31 12:53:01,386 [WARNING] Low FPS detected: 19.1
+2026-01-31 12:53:03,419 [WARNING] Low FPS detected: 19.6
+2026-01-31 12:53:04,424 [WARNING] Low FPS detected: 18.9
+2026-01-31 12:53:06,508 [WARNING] Low FPS detected: 18.3
+2026-01-31 12:53:07,521 [WARNING] Low FPS detected: 19.7
+2026-01-31 12:53:09,547 [WARNING] Low FPS detected: 19.7
+2026-01-31 12:53:10,465 [INFO] Performance Stats: FPS=19.7, Avg Latency=14.6ms, Max Latency=44.9ms, Confirmed Chars=30, False Positives=0
+2026-01-31 12:53:10,563 [WARNING] Low FPS detected: 19.7
+2026-01-31 12:53:11,568 [WARNING] Low FPS detected: 18.9
+2026-01-31 12:53:12,593 [WARNING] Low FPS detected: 19.5
+2026-01-31 12:53:15,679 [WARNING] Low FPS detected: 16.3
+2026-01-31 12:53:16,739 [WARNING] Low FPS detected: 14.1
+2026-01-31 12:53:17,801 [WARNING] Low FPS detected: 15.1
+2026-01-31 12:53:18,821 [WARNING] Low FPS detected: 13.7
+2026-01-31 12:53:19,870 [WARNING] Low FPS detected: 14.3
+2026-01-31 12:53:20,931 [WARNING] Low FPS detected: 16.0
+2026-01-31 12:53:21,938 [WARNING] Low FPS detected: 14.9
+2026-01-31 12:53:22,966 [WARNING] Low FPS detected: 13.6
+2026-01-31 12:53:24,023 [WARNING] Low FPS detected: 13.2
+2026-01-31 12:53:25,035 [WARNING] Low FPS detected: 12.8
+2026-01-31 12:53:26,086 [WARNING] Low FPS detected: 16.2
+2026-01-31 12:53:27,100 [WARNING] Low FPS detected: 15.8
+2026-01-31 12:53:28,144 [WARNING] Low FPS detected: 16.3
+2026-01-31 12:53:29,173 [WARNING] Low FPS detected: 16.5
+2026-01-31 12:53:29,173 [INFO] Performance Stats: FPS=16.5, Avg Latency=26.5ms, Max Latency=60.0ms, Confirmed Chars=30, False Positives=0
+2026-01-31 12:53:30,181 [WARNING] Low FPS detected: 16.8
+2026-01-31 12:53:31,202 [WARNING] Low FPS detected: 16.6
+2026-01-31 12:53:32,233 [WARNING] Low FPS detected: 17.5
+2026-01-31 12:53:33,288 [WARNING] Low FPS detected: 16.1
+2026-01-31 12:53:34,294 [WARNING] Low FPS detected: 17.9
+2026-01-31 12:53:35,339 [WARNING] Low FPS detected: 16.3
+2026-01-31 12:53:36,380 [WARNING] Low FPS detected: 16.3
+2026-01-31 12:53:37,418 [WARNING] Low FPS detected: 17.4
+2026-01-31 12:53:38,463 [WARNING] Low FPS detected: 16.3
+2026-01-31 12:53:39,486 [WARNING] Low FPS detected: 17.6
+2026-01-31 12:53:40,526 [WARNING] Low FPS detected: 18.3
+2026-01-31 12:53:41,531 [WARNING] Low FPS detected: 18.9
+2026-01-31 12:53:42,547 [WARNING] Low FPS detected: 18.7
+2026-01-31 12:53:43,604 [WARNING] Low FPS detected: 14.2
+2026-01-31 12:53:44,167 [INFO] Confirmed character: k after 15 frames
+2026-01-31 12:53:44,618 [WARNING] Low FPS detected: 12.8
+2026-01-31 12:53:45,659 [WARNING] Low FPS detected: 16.3
+2026-01-31 12:53:46,683 [WARNING] Low FPS detected: 15.6
+2026-01-31 12:53:46,932 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:53:47,166 [INFO] Performance Stats: FPS=15.6, Avg Latency=25.3ms, Max Latency=54.3ms, Confirmed Chars=32, False Positives=0
+2026-01-31 12:53:48,219 [INFO] VSL Backend released
+2026-01-31 12:56:59,806 [INFO] VSL Backend initialized
+2026-01-31 12:57:00,363 [INFO] Loaded model from ./models/model.p
+2026-01-31 12:57:00,405 [INFO] HandLandmarker initialized
+2026-01-31 12:57:02,751 [INFO] Webcam initialized
+2026-01-31 12:57:02,952 [INFO] Loaded 79199 words into dictionary
+2026-01-31 12:57:02,979 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-31 12:57:02,979 [INFO] Using writeable comtypes cache directory: 'C:\Users\ASUS\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-01-31 12:57:03,871 [WARNING] Low FPS detected: 0.9
+2026-01-31 12:57:03,871 [WARNING] High latency detected: 200.5ms
+2026-01-31 12:57:04,930 [WARNING] Low FPS detected: 18.9
+2026-01-31 12:57:05,954 [WARNING] Low FPS detected: 19.5
+2026-01-31 12:57:06,973 [WARNING] Low FPS detected: 19.6
+2026-01-31 12:57:08,005 [WARNING] Low FPS detected: 16.5
+2026-01-31 12:57:09,010 [WARNING] Low FPS detected: 18.9
+2026-01-31 12:57:10,050 [WARNING] Low FPS detected: 16.4
+2026-01-31 12:57:11,060 [WARNING] Low FPS detected: 19.8
+2026-01-31 12:57:17,231 [WARNING] Low FPS detected: 18.4
+2026-01-31 12:57:19,232 [INFO] Performance Stats: FPS=20.8, Avg Latency=14.3ms, Max Latency=35.0ms, Confirmed Chars=0, False Positives=0
+2026-01-31 12:57:19,291 [WARNING] Low FPS detected: 19.1
+2026-01-31 12:57:20,318 [INFO] Confirmed character: b after 15 frames
+2026-01-31 12:57:20,318 [WARNING] Low FPS detected: 17.5
+2026-01-31 12:57:21,355 [WARNING] Low FPS detected: 17.4
+2026-01-31 12:57:22,026 [WARNING] High latency detected: 111.6ms
+2026-01-31 12:57:22,411 [WARNING] Low FPS detected: 16.1
+2026-01-31 12:57:23,003 [INFO] Confirmed character: c after 15 frames
+2026-01-31 12:57:23,419 [WARNING] Low FPS detected: 16.9
+2026-01-31 12:57:23,913 [INFO] Confirmed character: c after 15 frames
+2026-01-31 12:57:24,458 [WARNING] Low FPS detected: 16.4
+2026-01-31 12:57:24,973 [INFO] Confirmed character: c after 15 frames
+2026-01-31 12:57:25,520 [WARNING] Low FPS detected: 16.9
+2026-01-31 12:57:26,560 [WARNING] Low FPS detected: 17.3
+2026-01-31 12:57:27,572 [WARNING] Low FPS detected: 16.8
+2026-01-31 12:57:28,619 [WARNING] Low FPS detected: 18.1
+2026-01-31 12:57:29,658 [WARNING] Low FPS detected: 16.4
+2026-01-31 12:57:30,702 [WARNING] Low FPS detected: 17.2
+2026-01-31 12:57:31,731 [WARNING] Low FPS detected: 19.4
+2026-01-31 12:57:32,745 [WARNING] Low FPS detected: 18.8
+2026-01-31 12:57:33,774 [WARNING] Low FPS detected: 17.5
+2026-01-31 12:57:34,774 [WARNING] Low FPS detected: 19.0
+2026-01-31 12:57:35,784 [WARNING] Low FPS detected: 17.8
+2026-01-31 12:57:36,424 [INFO] Performance Stats: FPS=17.8, Avg Latency=15.4ms, Max Latency=26.2ms, Confirmed Chars=4, False Positives=0
+2026-01-31 12:57:36,832 [WARNING] Low FPS detected: 17.2
+2026-01-31 12:57:37,859 [WARNING] Low FPS detected: 19.5
+2026-01-31 12:57:38,898 [WARNING] Low FPS detected: 18.3
+2026-01-31 12:57:39,953 [WARNING] Low FPS detected: 18.0
+2026-01-31 12:57:40,995 [WARNING] Low FPS detected: 18.2
+2026-01-31 12:57:41,152 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:57:42,023 [WARNING] Low FPS detected: 19.5
+2026-01-31 12:57:43,059 [WARNING] Low FPS detected: 19.3
+2026-01-31 12:57:44,093 [WARNING] Low FPS detected: 19.3
+2026-01-31 12:57:45,102 [WARNING] Low FPS detected: 17.8
+2026-01-31 12:57:46,102 [WARNING] Low FPS detected: 19.0
+2026-01-31 12:57:47,146 [WARNING] Low FPS detected: 19.2
+2026-01-31 12:57:48,158 [WARNING] Low FPS detected: 18.8
+2026-01-31 12:57:50,182 [WARNING] Low FPS detected: 19.8
+2026-01-31 12:57:52,072 [INFO] Performance Stats: FPS=20.3, Avg Latency=13.6ms, Max Latency=25.2ms, Confirmed Chars=5, False Positives=0
+2026-01-31 12:57:56,030 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:57:56,322 [WARNING] Low FPS detected: 17.8
+2026-01-31 12:57:57,341 [WARNING] Low FPS detected: 18.6
+2026-01-31 12:57:58,366 [WARNING] Low FPS detected: 18.5
+2026-01-31 12:57:59,380 [WARNING] Low FPS detected: 17.8
+2026-01-31 12:57:59,474 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:58:00,285 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:58:00,426 [WARNING] Low FPS detected: 19.1
+2026-01-31 12:58:01,128 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:58:01,469 [WARNING] Low FPS detected: 17.3
+2026-01-31 12:58:01,969 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:58:02,481 [WARNING] Low FPS detected: 17.8
+2026-01-31 12:58:02,818 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:58:03,483 [WARNING] Low FPS detected: 18.0
+2026-01-31 12:58:03,642 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:58:04,483 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:58:04,529 [WARNING] Low FPS detected: 18.2
+2026-01-31 12:58:05,280 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:58:05,563 [WARNING] Low FPS detected: 18.4
+2026-01-31 12:58:06,123 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:58:06,608 [WARNING] Low FPS detected: 18.2
+2026-01-31 12:58:06,980 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:58:07,652 [WARNING] Low FPS detected: 17.2
+2026-01-31 12:58:07,808 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:58:08,121 [INFO] Performance Stats: FPS=17.2, Avg Latency=15.2ms, Max Latency=20.9ms, Confirmed Chars=17, False Positives=0
+2026-01-31 12:58:08,590 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:58:08,699 [WARNING] Low FPS detected: 19.1
+2026-01-31 12:58:09,419 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:58:09,730 [WARNING] Low FPS detected: 18.4
+2026-01-31 12:58:10,261 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:58:10,776 [WARNING] Low FPS detected: 17.2
+2026-01-31 12:58:11,103 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:58:11,802 [WARNING] Low FPS detected: 17.5
+2026-01-31 12:58:11,961 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:58:12,854 [WARNING] Low FPS detected: 18.1
+2026-01-31 12:58:13,632 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:58:13,895 [WARNING] Low FPS detected: 17.3
+2026-01-31 12:58:14,847 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:58:14,908 [WARNING] Low FPS detected: 17.8
+2026-01-31 12:58:15,683 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:58:15,963 [WARNING] Low FPS detected: 18.0
+2026-01-31 12:58:16,572 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:58:17,007 [WARNING] Low FPS detected: 17.3
+2026-01-31 12:58:17,422 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:58:18,032 [WARNING] Low FPS detected: 17.6
+2026-01-31 12:58:18,253 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:58:19,067 [WARNING] Low FPS detected: 17.4
+2026-01-31 12:58:19,128 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:58:20,093 [WARNING] Low FPS detected: 17.5
+2026-01-31 12:58:21,108 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:58:21,108 [WARNING] Low FPS detected: 17.7
+2026-01-31 12:58:22,123 [WARNING] Low FPS detected: 17.7
+2026-01-31 12:58:23,155 [WARNING] Low FPS detected: 17.4
+2026-01-31 12:58:23,618 [INFO] Confirmed character: p after 15 frames
+2026-01-31 12:58:24,169 [WARNING] Low FPS detected: 17.7
+2026-01-31 12:58:24,426 [INFO] Confirmed character: p after 15 frames
+2026-01-31 12:58:25,059 [INFO] Performance Stats: FPS=17.7, Avg Latency=15.5ms, Max Latency=22.9ms, Confirmed Chars=32, False Positives=0
+2026-01-31 12:58:25,233 [WARNING] Low FPS detected: 17.9
+2026-01-31 12:58:25,295 [INFO] Confirmed character: p after 15 frames
+2026-01-31 12:58:26,143 [INFO] Confirmed character: p after 15 frames
+2026-01-31 12:58:26,238 [WARNING] Low FPS detected: 17.9
+2026-01-31 12:58:26,972 [INFO] Confirmed character: p after 15 frames
+2026-01-31 12:58:27,268 [WARNING] Low FPS detected: 17.5
+2026-01-31 12:58:28,306 [WARNING] Low FPS detected: 18.3
+2026-01-31 12:58:29,253 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:58:29,350 [WARNING] Low FPS detected: 17.3
+2026-01-31 12:58:30,262 [INFO] Confirmed character: c after 15 frames
+2026-01-31 12:58:30,371 [WARNING] Low FPS detected: 17.6
+2026-01-31 12:58:31,090 [INFO] Confirmed character: c after 15 frames
+2026-01-31 12:58:31,403 [WARNING] Low FPS detected: 18.4
+2026-01-31 12:58:31,885 [INFO] Confirmed character: c after 15 frames
+2026-01-31 12:58:32,449 [WARNING] Low FPS detected: 18.2
+2026-01-31 12:58:33,460 [WARNING] Low FPS detected: 16.8
+2026-01-31 12:58:34,490 [WARNING] Low FPS detected: 16.5
+2026-01-31 12:58:35,141 [INFO] Confirmed character: p after 15 frames
+2026-01-31 12:58:35,495 [WARNING] Low FPS detected: 16.9
+2026-01-31 12:58:36,372 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:58:36,532 [WARNING] Low FPS detected: 18.3
+2026-01-31 12:58:38,605 [WARNING] Low FPS detected: 19.2
+2026-01-31 12:58:39,614 [WARNING] Low FPS detected: 19.8
+2026-01-31 12:58:40,625 [WARNING] Low FPS detected: 17.8
+2026-01-31 12:58:40,686 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:58:41,647 [WARNING] Low FPS detected: 17.6
+2026-01-31 12:58:41,710 [INFO] Performance Stats: FPS=17.6, Avg Latency=15.0ms, Max Latency=27.0ms, Confirmed Chars=42, False Positives=0
+2026-01-31 12:58:42,708 [WARNING] Low FPS detected: 17.0
+2026-01-31 12:58:43,756 [WARNING] Low FPS detected: 17.2
+2026-01-31 12:58:48,818 [WARNING] Low FPS detected: 20.0
+2026-01-31 12:58:56,587 [INFO] Performance Stats: FPS=21.3, Avg Latency=13.3ms, Max Latency=25.0ms, Confirmed Chars=42, False Positives=0
+2026-01-31 12:58:59,096 [WARNING] Low FPS detected: 20.0
+2026-01-31 12:59:00,126 [WARNING] Low FPS detected: 18.4
+2026-01-31 12:59:01,141 [WARNING] Low FPS detected: 19.7
+2026-01-31 12:59:02,176 [WARNING] Low FPS detected: 19.3
+2026-01-31 12:59:03,237 [WARNING] Low FPS detected: 17.0
+2026-01-31 12:59:04,262 [WARNING] Low FPS detected: 18.5
+2026-01-31 12:59:05,317 [WARNING] Low FPS detected: 18.0
+2026-01-31 12:59:06,353 [WARNING] Low FPS detected: 17.4
+2026-01-31 12:59:07,362 [WARNING] Low FPS detected: 17.8
+2026-01-31 12:59:08,372 [WARNING] Low FPS detected: 18.8
+2026-01-31 12:59:09,401 [WARNING] Low FPS detected: 17.5
+2026-01-31 12:59:10,431 [WARNING] Low FPS detected: 18.5
+2026-01-31 12:59:10,883 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:59:11,445 [WARNING] Low FPS detected: 18.7
+2026-01-31 12:59:11,992 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:59:12,475 [WARNING] Low FPS detected: 18.4
+2026-01-31 12:59:12,710 [INFO] Performance Stats: FPS=18.4, Avg Latency=15.4ms, Max Latency=28.6ms, Confirmed Chars=44, False Positives=0
+2026-01-31 12:59:12,831 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:59:13,532 [WARNING] Low FPS detected: 18.0
+2026-01-31 12:59:13,626 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:59:14,542 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:59:14,542 [WARNING] Low FPS detected: 16.8
+2026-01-31 12:59:15,416 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:59:15,588 [WARNING] Low FPS detected: 17.2
+2026-01-31 12:59:16,272 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:59:16,633 [WARNING] Low FPS detected: 17.2
+2026-01-31 12:59:17,160 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:59:17,639 [WARNING] Low FPS detected: 16.9
+2026-01-31 12:59:18,029 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:59:18,664 [WARNING] Low FPS detected: 17.6
+2026-01-31 12:59:18,901 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:59:19,709 [WARNING] Low FPS detected: 17.2
+2026-01-31 12:59:20,660 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:59:20,722 [WARNING] Low FPS detected: 17.8
+2026-01-31 12:59:21,733 [WARNING] Low FPS detected: 17.8
+2026-01-31 12:59:22,745 [WARNING] Low FPS detected: 18.8
+2026-01-31 12:59:23,756 [WARNING] Low FPS detected: 18.8
+2026-01-31 12:59:24,810 [WARNING] Low FPS detected: 18.0
+2026-01-31 12:59:25,824 [WARNING] Low FPS detected: 19.7
+2026-01-31 12:59:26,837 [WARNING] Low FPS detected: 19.8
+2026-01-31 12:59:27,884 [WARNING] Low FPS detected: 18.1
+2026-01-31 12:59:28,943 [WARNING] Low FPS detected: 17.0
+2026-01-31 12:59:29,052 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:59:29,469 [INFO] Performance Stats: FPS=17.0, Avg Latency=15.1ms, Max Latency=25.1ms, Confirmed Chars=54, False Positives=0
+2026-01-31 12:59:29,925 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:59:29,988 [WARNING] Low FPS detected: 17.2
+2026-01-31 12:59:30,794 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:59:31,042 [WARNING] Low FPS detected: 17.1
+2026-01-31 12:59:31,699 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:59:32,071 [WARNING] Low FPS detected: 17.5
+2026-01-31 12:59:32,571 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:59:33,101 [WARNING] Low FPS detected: 17.5
+2026-01-31 12:59:34,128 [WARNING] Low FPS detected: 17.5
+2026-01-31 12:59:35,143 [WARNING] Low FPS detected: 19.7
+2026-01-31 12:59:36,166 [WARNING] Low FPS detected: 19.6
+2026-01-31 12:59:42,387 [WARNING] Low FPS detected: 19.4
+2026-01-31 12:59:42,544 [INFO] Confirmed character: p after 15 frames
+2026-01-31 12:59:43,422 [WARNING] Low FPS detected: 18.4
+2026-01-31 12:59:43,542 [INFO] Confirmed character: p after 15 frames
+2026-01-31 12:59:44,448 [WARNING] Low FPS detected: 17.5
+2026-01-31 12:59:45,176 [INFO] Confirmed character: x after 15 frames
+2026-01-31 12:59:45,239 [INFO] Performance Stats: FPS=17.5, Avg Latency=14.9ms, Max Latency=25.4ms, Confirmed Chars=61, False Positives=0
+2026-01-31 12:59:45,472 [WARNING] Low FPS detected: 17.6
+2026-01-31 12:59:46,480 [WARNING] Low FPS detected: 17.9
+2026-01-31 12:59:47,499 [WARNING] Low FPS detected: 17.7
+2026-01-31 12:59:48,500 [WARNING] Low FPS detected: 17.0
+2026-01-31 12:59:49,542 [WARNING] Low FPS detected: 17.3
+2026-01-31 12:59:50,575 [WARNING] Low FPS detected: 17.4
+2026-01-31 12:59:51,588 [WARNING] Low FPS detected: 18.8
+2026-01-31 12:59:52,599 [WARNING] Low FPS detected: 17.8
+2026-01-31 12:59:53,616 [WARNING] Low FPS detected: 17.7
+2026-01-31 12:59:54,627 [WARNING] Low FPS detected: 17.8
+2026-01-31 12:59:55,668 [WARNING] Low FPS detected: 17.3
+2026-01-31 12:59:56,696 [WARNING] Low FPS detected: 17.5
+2026-01-31 12:59:57,737 [WARNING] Low FPS detected: 17.3
+2026-01-31 12:59:58,751 [WARNING] Low FPS detected: 17.7
+2026-01-31 12:59:59,808 [WARNING] Low FPS detected: 17.0
+2026-01-31 13:00:00,821 [WARNING] Low FPS detected: 17.8
+2026-01-31 13:00:01,835 [WARNING] Low FPS detected: 17.8
+2026-01-31 13:00:02,285 [INFO] Performance Stats: FPS=17.8, Avg Latency=15.7ms, Max Latency=30.6ms, Confirmed Chars=61, False Positives=0
+2026-01-31 13:00:02,410 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:00:02,846 [WARNING] Low FPS detected: 17.8
+2026-01-31 13:00:03,547 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:00:03,891 [WARNING] Low FPS detected: 17.2
+2026-01-31 13:00:04,404 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:00:04,906 [WARNING] Low FPS detected: 17.7
+2026-01-31 13:00:05,261 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:00:05,950 [WARNING] Low FPS detected: 18.2
+2026-01-31 13:00:06,974 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:00:06,974 [WARNING] Low FPS detected: 17.6
+2026-01-31 13:00:07,785 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:00:08,016 [WARNING] Low FPS detected: 18.2
+2026-01-31 13:00:08,608 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:00:09,048 [WARNING] Low FPS detected: 17.4
+2026-01-31 13:00:09,513 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:00:10,088 [WARNING] Low FPS detected: 17.3
+2026-01-31 13:00:10,385 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:00:11,120 [WARNING] Low FPS detected: 17.4
+2026-01-31 13:00:11,244 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:00:12,128 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:00:12,128 [WARNING] Low FPS detected: 16.9
+2026-01-31 13:00:12,953 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:00:13,142 [WARNING] Low FPS detected: 18.7
+2026-01-31 13:00:13,752 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:00:14,154 [WARNING] Low FPS detected: 17.8
+2026-01-31 13:00:15,181 [WARNING] Low FPS detected: 18.5
+2026-01-31 13:00:16,182 [WARNING] Low FPS detected: 18.0
+2026-01-31 13:00:17,190 [WARNING] Low FPS detected: 19.8
+2026-01-31 13:00:18,191 [WARNING] Low FPS detected: 20.0
+2026-01-31 13:00:18,844 [INFO] Performance Stats: FPS=20.0, Avg Latency=14.8ms, Max Latency=28.9ms, Confirmed Chars=74, False Positives=0
+2026-01-31 13:00:26,540 [WARNING] Low FPS detected: 18.0
+2026-01-31 13:00:27,579 [WARNING] Low FPS detected: 17.3
+2026-01-31 13:00:28,587 [WARNING] Low FPS detected: 17.9
+2026-01-31 13:00:29,632 [WARNING] Low FPS detected: 18.2
+2026-01-31 13:00:30,641 [WARNING] Low FPS detected: 16.8
+2026-01-31 13:00:31,673 [WARNING] Low FPS detected: 18.4
+2026-01-31 13:00:32,683 [WARNING] Low FPS detected: 18.8
+2026-01-31 13:00:33,745 [WARNING] Low FPS detected: 17.9
+2026-01-31 13:00:34,463 [INFO] Performance Stats: FPS=17.9, Avg Latency=16.2ms, Max Latency=30.6ms, Confirmed Chars=74, False Positives=0
+2026-01-31 13:00:34,760 [WARNING] Low FPS detected: 18.7
+2026-01-31 13:00:35,821 [WARNING] Low FPS detected: 17.9
+2026-01-31 13:00:36,849 [WARNING] Low FPS detected: 17.5
+2026-01-31 13:00:37,888 [WARNING] Low FPS detected: 18.3
+2026-01-31 13:00:38,919 [WARNING] Low FPS detected: 17.5
+2026-01-31 13:00:39,963 [WARNING] Low FPS detected: 17.2
+2026-01-31 13:00:40,995 [WARNING] Low FPS detected: 18.4
+2026-01-31 13:00:42,041 [WARNING] Low FPS detected: 18.2
+2026-01-31 13:00:43,069 [WARNING] Low FPS detected: 18.5
+2026-01-31 13:00:44,092 [WARNING] Low FPS detected: 16.6
+2026-01-31 13:00:45,121 [WARNING] Low FPS detected: 17.5
+2026-01-31 13:00:46,181 [WARNING] Low FPS detected: 17.9
+2026-01-31 13:00:47,204 [WARNING] Low FPS detected: 16.6
+2026-01-31 13:00:48,235 [WARNING] Low FPS detected: 17.5
+2026-01-31 13:00:49,279 [WARNING] Low FPS detected: 18.2
+2026-01-31 13:00:50,281 [WARNING] Low FPS detected: 17.0
+2026-01-31 13:00:51,310 [WARNING] Low FPS detected: 17.5
+2026-01-31 13:00:51,496 [INFO] Performance Stats: FPS=17.5, Avg Latency=16.1ms, Max Latency=30.6ms, Confirmed Chars=74, False Positives=0
+2026-01-31 13:00:52,356 [WARNING] Low FPS detected: 18.2
+2026-01-31 13:00:53,416 [WARNING] Low FPS detected: 17.9
+2026-01-31 13:00:54,460 [WARNING] Low FPS detected: 17.2
+2026-01-31 13:00:55,471 [WARNING] Low FPS detected: 17.8
+2026-01-31 13:00:56,535 [WARNING] Low FPS detected: 18.8
+2026-01-31 13:00:57,562 [WARNING] Low FPS detected: 16.6
+2026-01-31 13:00:58,561 [WARNING] Low FPS detected: 18.0
+2026-01-31 13:00:59,609 [WARNING] Low FPS detected: 18.1
+2026-01-31 13:01:00,617 [WARNING] Low FPS detected: 17.9
+2026-01-31 13:01:01,623 [WARNING] Low FPS detected: 17.9
+2026-01-31 13:01:02,653 [WARNING] Low FPS detected: 18.4
+2026-01-31 13:01:03,185 [INFO] Confirmed character: p after 15 frames
+2026-01-31 13:01:03,663 [WARNING] Low FPS detected: 16.8
+2026-01-31 13:01:04,670 [WARNING] Low FPS detected: 17.9
+2026-01-31 13:01:05,714 [WARNING] Low FPS detected: 18.2
+2026-01-31 13:01:06,772 [WARNING] Low FPS detected: 18.0
+2026-01-31 13:01:07,776 [WARNING] Low FPS detected: 17.9
+2026-01-31 13:01:08,258 [INFO] Performance Stats: FPS=17.9, Avg Latency=15.3ms, Max Latency=23.9ms, Confirmed Chars=75, False Positives=0
+2026-01-31 13:01:08,815 [WARNING] Low FPS detected: 18.3
+2026-01-31 13:01:09,821 [WARNING] Low FPS detected: 17.9
+2026-01-31 13:01:10,872 [WARNING] Low FPS detected: 17.1
+2026-01-31 13:01:11,886 [WARNING] Low FPS detected: 16.8
+2026-01-31 13:01:12,933 [WARNING] Low FPS detected: 17.2
+2026-01-31 13:01:13,962 [WARNING] Low FPS detected: 18.5
+2026-01-31 13:01:14,986 [WARNING] Low FPS detected: 17.6
+2026-01-31 13:01:15,990 [WARNING] Low FPS detected: 16.9
+2026-01-31 13:01:17,020 [WARNING] Low FPS detected: 17.5
+2026-01-31 13:01:18,076 [WARNING] Low FPS detected: 17.1
+2026-01-31 13:01:19,102 [WARNING] Low FPS detected: 17.5
+2026-01-31 13:01:20,126 [WARNING] Low FPS detected: 17.6
+2026-01-31 13:01:21,162 [WARNING] Low FPS detected: 17.4
+2026-01-31 13:01:22,203 [WARNING] Low FPS detected: 18.2
+2026-01-31 13:01:23,268 [WARNING] Low FPS detected: 16.9
+2026-01-31 13:01:24,278 [WARNING] Low FPS detected: 17.8
+2026-01-31 13:01:25,304 [WARNING] Low FPS detected: 17.5
+2026-01-31 13:01:25,411 [INFO] Performance Stats: FPS=17.5, Avg Latency=15.7ms, Max Latency=39.7ms, Confirmed Chars=75, False Positives=0
+2026-01-31 13:01:26,307 [WARNING] Low FPS detected: 18.0
+2026-01-31 13:01:27,356 [WARNING] Low FPS detected: 19.1
+2026-01-31 13:01:28,385 [WARNING] Low FPS detected: 17.5
+2026-01-31 13:01:29,428 [WARNING] Low FPS detected: 17.3
+2026-01-31 13:01:30,468 [WARNING] Low FPS detected: 18.3
+2026-01-31 13:01:31,493 [WARNING] Low FPS detected: 17.6
+2026-01-31 13:01:32,024 [INFO] Confirmed character: g after 15 frames
+2026-01-31 13:01:32,554 [WARNING] Low FPS detected: 17.0
+2026-01-31 13:01:33,562 [WARNING] Low FPS detected: 17.8
+2026-01-31 13:01:34,599 [WARNING] Low FPS detected: 17.4
+2026-01-31 13:01:35,620 [WARNING] Low FPS detected: 17.6
+2026-01-31 13:01:36,661 [WARNING] Low FPS detected: 17.3
+2026-01-31 13:01:37,699 [WARNING] Low FPS detected: 16.4
+2026-01-31 13:01:38,736 [WARNING] Low FPS detected: 17.4
+2026-01-31 13:01:39,748 [WARNING] Low FPS detected: 16.8
+2026-01-31 13:01:40,778 [WARNING] Low FPS detected: 18.5
+2026-01-31 13:01:41,792 [WARNING] Low FPS detected: 17.8
+2026-01-31 13:01:42,476 [INFO] Performance Stats: FPS=17.8, Avg Latency=15.7ms, Max Latency=23.1ms, Confirmed Chars=76, False Positives=0
+2026-01-31 13:01:42,818 [WARNING] Low FPS detected: 17.5
+2026-01-31 13:01:43,860 [WARNING] Low FPS detected: 17.3
+2026-01-31 13:01:44,872 [WARNING] Low FPS detected: 17.8
+2026-01-31 13:01:45,903 [WARNING] Low FPS detected: 17.5
+2026-01-31 13:01:46,338 [INFO] Confirmed character: p after 15 frames
+2026-01-31 13:01:46,946 [WARNING] Low FPS detected: 18.2
+2026-01-31 13:01:47,169 [INFO] Confirmed character: p after 15 frames
+2026-01-31 13:01:47,988 [WARNING] Low FPS detected: 18.2
+2026-01-31 13:01:49,028 [WARNING] Low FPS detected: 17.3
+2026-01-31 13:01:50,065 [WARNING] Low FPS detected: 17.4
+2026-01-31 13:01:51,076 [WARNING] Low FPS detected: 16.8
+2026-01-31 13:01:51,859 [INFO] Confirmed character: g after 15 frames
+2026-01-31 13:01:52,096 [WARNING] Low FPS detected: 17.6
+2026-01-31 13:01:52,736 [INFO] Confirmed character: g after 15 frames
+2026-01-31 13:01:53,144 [WARNING] Low FPS detected: 18.1
+2026-01-31 13:01:53,516 [INFO] Confirmed character: g after 15 frames
+2026-01-31 13:01:54,175 [WARNING] Low FPS detected: 18.4
+2026-01-31 13:01:54,346 [INFO] Confirmed character: g after 15 frames
+2026-01-31 13:01:55,190 [WARNING] Low FPS detected: 16.7
+2026-01-31 13:01:56,201 [WARNING] Low FPS detected: 17.8
+2026-01-31 13:01:56,265 [INFO] Confirmed character: g after 15 frames
+2026-01-31 13:01:57,119 [INFO] Confirmed character: g after 15 frames
+2026-01-31 13:01:57,212 [WARNING] Low FPS detected: 17.8
+2026-01-31 13:01:58,272 [WARNING] Low FPS detected: 16.0
+2026-01-31 13:01:58,692 [INFO] Confirmed character: g after 15 frames
+2026-01-31 13:01:59,315 [WARNING] Low FPS detected: 17.3
+2026-01-31 13:01:59,594 [INFO] Performance Stats: FPS=17.3, Avg Latency=15.3ms, Max Latency=18.9ms, Confirmed Chars=85, False Positives=0
+2026-01-31 13:02:00,357 [WARNING] Low FPS detected: 18.2
+2026-01-31 13:02:00,871 [INFO] Confirmed character: g after 15 frames
+2026-01-31 13:02:01,357 [WARNING] Low FPS detected: 17.0
+2026-01-31 13:02:01,775 [INFO] Confirmed character: g after 15 frames
+2026-01-31 13:02:02,364 [WARNING] Low FPS detected: 16.9
+2026-01-31 13:02:03,393 [WARNING] Low FPS detected: 18.5
+2026-01-31 13:02:03,721 [INFO] Confirmed character: dd after 15 frames
+2026-01-31 13:02:04,425 [WARNING] Low FPS detected: 17.5
+2026-01-31 13:02:05,426 [WARNING] Low FPS detected: 17.0
+2026-01-31 13:02:06,435 [WARNING] Low FPS detected: 16.8
+2026-01-31 13:02:07,444 [WARNING] Low FPS detected: 18.8
+2026-01-31 13:02:08,491 [WARNING] Low FPS detected: 19.1
+2026-01-31 13:02:08,928 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:02:09,521 [WARNING] Low FPS detected: 17.5
+2026-01-31 13:02:10,523 [WARNING] Low FPS detected: 17.0
+2026-01-31 13:02:11,188 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:02:11,548 [WARNING] Low FPS detected: 18.6
+2026-01-31 13:02:11,955 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:02:12,574 [WARNING] Low FPS detected: 18.5
+2026-01-31 13:02:12,778 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:02:13,619 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:02:13,619 [WARNING] Low FPS detected: 18.2
+2026-01-31 13:02:14,460 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:02:14,631 [WARNING] Low FPS detected: 17.8
+2026-01-31 13:02:15,304 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:02:15,657 [WARNING] Low FPS detected: 18.5
+2026-01-31 13:02:16,078 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:02:16,373 [INFO] Performance Stats: FPS=18.5, Avg Latency=14.8ms, Max Latency=20.3ms, Confirmed Chars=96, False Positives=0
+2026-01-31 13:02:16,701 [WARNING] Low FPS detected: 18.2
+2026-01-31 13:02:16,934 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:02:17,725 [WARNING] Low FPS detected: 17.6
+2026-01-31 13:02:17,788 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:02:18,641 [INFO] Confirmed character: dd after 15 frames
+2026-01-31 13:02:18,765 [WARNING] Low FPS detected: 17.3
+2026-01-31 13:02:19,808 [WARNING] Low FPS detected: 17.3
+2026-01-31 13:02:20,261 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:02:20,843 [WARNING] Low FPS detected: 17.4
+2026-01-31 13:02:21,873 [WARNING] Low FPS detected: 18.4
+2026-01-31 13:02:22,244 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:02:22,882 [WARNING] Low FPS detected: 18.8
+2026-01-31 13:02:23,037 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:02:23,902 [WARNING] Low FPS detected: 18.6
+2026-01-31 13:02:24,920 [WARNING] Low FPS detected: 16.7
+2026-01-31 13:02:25,373 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:02:25,969 [WARNING] Low FPS detected: 18.1
+2026-01-31 13:02:27,001 [WARNING] Low FPS detected: 17.4
+2026-01-31 13:02:28,052 [WARNING] Low FPS detected: 19.0
+2026-01-31 13:02:29,067 [WARNING] Low FPS detected: 18.7
+2026-01-31 13:02:32,499 [INFO] Performance Stats: FPS=21.4, Avg Latency=13.9ms, Max Latency=28.6ms, Confirmed Chars=103, False Positives=0
+2026-01-31 13:02:34,182 [WARNING] Low FPS detected: 19.5
+2026-01-31 13:02:35,196 [WARNING] Low FPS detected: 19.7
+2026-01-31 13:02:45,445 [INFO] Confirmed character: a after 15 frames
+2026-01-31 13:02:45,506 [WARNING] Low FPS detected: 18.9
+2026-01-31 13:02:46,547 [WARNING] Low FPS detected: 18.3
+2026-01-31 13:02:47,357 [INFO] Performance Stats: FPS=18.3, Avg Latency=13.8ms, Max Latency=25.1ms, Confirmed Chars=104, False Positives=0
+2026-01-31 13:03:01,843 [INFO] Performance Stats: FPS=20.4, Avg Latency=12.9ms, Max Latency=21.3ms, Confirmed Chars=104, False Positives=0
+2026-01-31 13:03:02,949 [WARNING] Low FPS detected: 19.7
+2026-01-31 13:03:04,979 [WARNING] Low FPS detected: 19.4
+2026-01-31 13:03:05,986 [WARNING] Low FPS detected: 19.9
+2026-01-31 13:03:07,001 [WARNING] Low FPS detected: 19.7
+2026-01-31 13:03:09,010 [WARNING] Low FPS detected: 18.9
+2026-01-31 13:03:10,025 [WARNING] Low FPS detected: 18.7
+2026-01-31 13:03:16,712 [INFO] Performance Stats: FPS=21.1, Avg Latency=13.2ms, Max Latency=20.4ms, Confirmed Chars=104, False Positives=0
+2026-01-31 13:03:17,245 [WARNING] Low FPS detected: 20.0
+2026-01-31 13:03:18,272 [WARNING] Low FPS detected: 18.5
+2026-01-31 13:03:18,494 [INFO] Confirmed character: c after 15 frames
+2026-01-31 13:03:19,301 [WARNING] Low FPS detected: 17.5
+2026-01-31 13:03:19,645 [INFO] Confirmed character: o after 15 frames
+2026-01-31 13:03:20,316 [WARNING] Low FPS detected: 17.7
+2026-01-31 13:03:20,489 [INFO] Confirmed character: o after 15 frames
+2026-01-31 13:03:21,316 [INFO] Confirmed character: o after 15 frames
+2026-01-31 13:03:21,376 [WARNING] Low FPS detected: 17.9
+2026-01-31 13:03:22,126 [INFO] Confirmed character: o after 15 frames
+2026-01-31 13:03:22,425 [WARNING] Low FPS detected: 18.1
+2026-01-31 13:03:23,434 [WARNING] Low FPS detected: 17.8
+2026-01-31 13:03:24,493 [WARNING] Low FPS detected: 17.9
+2026-01-31 13:03:25,509 [WARNING] Low FPS detected: 17.7
+2026-01-31 13:03:25,677 [INFO] Confirmed character: o after 15 frames
+2026-01-31 13:03:26,514 [WARNING] Low FPS detected: 16.9
+2026-01-31 13:03:27,554 [INFO] Confirmed character: o after 15 frames
+2026-01-31 13:03:27,554 [WARNING] Low FPS detected: 17.3
+2026-01-31 13:03:32,749 [WARNING] Low FPS detected: 18.4
+2026-01-31 13:03:32,808 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:03:32,871 [INFO] Performance Stats: FPS=18.4, Avg Latency=13.6ms, Max Latency=24.6ms, Confirmed Chars=112, False Positives=0
+2026-01-31 13:03:33,709 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:03:33,779 [WARNING] Low FPS detected: 16.5
+2026-01-31 13:03:34,537 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:03:34,818 [WARNING] Low FPS detected: 18.3
+2026-01-31 13:03:35,410 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:03:35,829 [WARNING] Low FPS detected: 17.8
+2026-01-31 13:03:37,883 [WARNING] Low FPS detected: 17.9
+2026-01-31 13:03:40,973 [WARNING] Low FPS detected: 13.8
+2026-01-31 13:03:42,010 [WARNING] Low FPS detected: 12.5
+2026-01-31 13:03:42,533 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:03:43,079 [WARNING] Low FPS detected: 13.1
+2026-01-31 13:03:43,706 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:03:44,108 [WARNING] Low FPS detected: 12.6
+2026-01-31 13:03:44,852 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:03:45,150 [WARNING] Low FPS detected: 13.4
+2026-01-31 13:03:46,168 [WARNING] Low FPS detected: 14.7
+2026-01-31 13:03:46,822 [INFO] Confirmed character: b after 15 frames
+2026-01-31 13:03:47,192 [WARNING] Low FPS detected: 15.6
+2026-01-31 13:03:47,798 [INFO] Confirmed character: b after 15 frames
+2026-01-31 13:03:48,234 [WARNING] Low FPS detected: 15.4
+2026-01-31 13:03:49,295 [WARNING] Low FPS detected: 17.0
+2026-01-31 13:03:50,298 [WARNING] Low FPS detected: 15.9
+2026-01-31 13:03:51,153 [INFO] Performance Stats: FPS=15.9, Avg Latency=25.9ms, Max Latency=44.5ms, Confirmed Chars=120, False Positives=0
+2026-01-31 13:03:51,340 [WARNING] Low FPS detected: 19.2
+2026-01-31 13:03:56,551 [WARNING] Low FPS detected: 19.8
+2026-01-31 13:03:59,664 [WARNING] Low FPS detected: 18.9
+2026-01-31 13:04:01,697 [WARNING] Low FPS detected: 18.6
+2026-01-31 13:04:02,716 [WARNING] Low FPS detected: 18.7
+2026-01-31 13:04:04,746 [WARNING] Low FPS detected: 19.0
+2026-01-31 13:04:05,769 [WARNING] Low FPS detected: 16.6
+2026-01-31 13:04:06,220 [INFO] Performance Stats: FPS=16.6, Avg Latency=16.1ms, Max Latency=21.8ms, Confirmed Chars=120, False Positives=0
+2026-01-31 13:04:06,813 [WARNING] Low FPS detected: 18.2
+2026-01-31 13:04:07,864 [WARNING] Low FPS detected: 19.0
+2026-01-31 13:04:08,924 [WARNING] Low FPS detected: 17.9
+2026-01-31 13:04:14,012 [WARNING] Low FPS detected: 19.8
+2026-01-31 13:04:16,073 [WARNING] Low FPS detected: 19.9
+2026-01-31 13:04:16,400 [INFO] Confirmed character: c after 15 frames
+2026-01-31 13:04:17,100 [WARNING] Low FPS detected: 19.5
+2026-01-31 13:04:20,187 [WARNING] Low FPS detected: 20.0
+2026-01-31 13:04:20,603 [INFO] Confirmed character: h after 15 frames
+2026-01-31 13:04:21,223 [WARNING] Low FPS detected: 19.3
+2026-01-31 13:04:21,272 [INFO] Performance Stats: FPS=19.3, Avg Latency=13.7ms, Max Latency=26.5ms, Confirmed Chars=122, False Positives=0
+2026-01-31 13:04:24,317 [WARNING] Low FPS detected: 19.4
+2026-01-31 13:04:24,366 [INFO] Confirmed character: a after 15 frames
+2026-01-31 13:04:28,420 [WARNING] Low FPS detected: 19.7
+2026-01-31 13:04:29,428 [WARNING] Low FPS detected: 19.8
+2026-01-31 13:04:30,431 [WARNING] Low FPS detected: 20.0
+2026-01-31 13:04:30,696 [INFO] Confirmed character: o after 15 frames
+2026-01-31 13:04:31,439 [WARNING] Low FPS detected: 18.9
+2026-01-31 13:04:35,851 [INFO] Performance Stats: FPS=21.1, Avg Latency=12.8ms, Max Latency=29.0ms, Confirmed Chars=124, False Positives=0
+2026-01-31 13:04:43,722 [WARNING] Low FPS detected: 19.7
+2026-01-31 13:04:43,910 [INFO] Confirmed character: c after 15 frames
+2026-01-31 13:04:44,746 [WARNING] Low FPS detected: 19.5
+2026-01-31 13:04:47,823 [WARNING] Low FPS detected: 18.7
+2026-01-31 13:04:48,839 [WARNING] Low FPS detected: 18.7
+2026-01-31 13:04:48,898 [INFO] Confirmed character: o after 15 frames
+2026-01-31 13:04:49,850 [WARNING] Low FPS detected: 19.8
+2026-01-31 13:04:50,549 [INFO] Performance Stats: FPS=19.8, Avg Latency=14.0ms, Max Latency=23.6ms, Confirmed Chars=126, False Positives=0
+2026-01-31 13:05:04,766 [INFO] Performance Stats: FPS=20.7, Avg Latency=13.0ms, Max Latency=30.0ms, Confirmed Chars=126, False Positives=0
+2026-01-31 13:05:09,342 [WARNING] Low FPS detected: 19.9
+2026-01-31 13:05:09,621 [INFO] Confirmed character: c after 15 frames
+2026-01-31 13:05:10,349 [WARNING] Low FPS detected: 18.9
+2026-01-31 13:05:12,811 [INFO] Confirmed character: o after 15 frames
+2026-01-31 13:05:13,451 [WARNING] Low FPS detected: 19.1
+2026-01-31 13:05:19,345 [INFO] Performance Stats: FPS=21.4, Avg Latency=12.9ms, Max Latency=21.7ms, Confirmed Chars=128, False Positives=0
+2026-01-31 13:05:26,808 [WARNING] Low FPS detected: 19.5
+2026-01-31 13:05:26,964 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:05:27,819 [WARNING] Low FPS detected: 18.8
+2026-01-31 13:05:29,878 [WARNING] Low FPS detected: 19.2
+2026-01-31 13:05:30,911 [WARNING] Low FPS detected: 18.4
+2026-01-31 13:05:31,941 [WARNING] Low FPS detected: 19.4
+2026-01-31 13:05:32,982 [WARNING] Low FPS detected: 18.2
+2026-01-31 13:05:33,995 [WARNING] Low FPS detected: 19.7
+2026-01-31 13:05:34,292 [INFO] Performance Stats: FPS=19.7, Avg Latency=15.0ms, Max Latency=25.4ms, Confirmed Chars=129, False Positives=0
+2026-01-31 13:05:35,043 [WARNING] Low FPS detected: 19.1
+2026-01-31 13:05:35,242 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:05:36,011 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:05:36,070 [WARNING] Low FPS detected: 19.5
+2026-01-31 13:05:37,112 [WARNING] Low FPS detected: 18.2
+2026-01-31 13:05:38,171 [WARNING] Low FPS detected: 18.9
+2026-01-31 13:05:39,181 [WARNING] Low FPS detected: 18.8
+2026-01-31 13:05:39,522 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:05:40,223 [WARNING] Low FPS detected: 17.3
+2026-01-31 13:05:41,283 [WARNING] Low FPS detected: 18.9
+2026-01-31 13:05:41,454 [INFO] Confirmed character: p after 15 frames
+2026-01-31 13:05:42,282 [INFO] Confirmed character: p after 15 frames
+2026-01-31 13:05:42,344 [WARNING] Low FPS detected: 17.9
+2026-01-31 13:05:43,076 [INFO] Confirmed character: p after 15 frames
+2026-01-31 13:05:43,390 [WARNING] Low FPS detected: 19.1
+2026-01-31 13:05:43,904 [INFO] Confirmed character: p after 15 frames
+2026-01-31 13:05:44,400 [WARNING] Low FPS detected: 17.8
+2026-01-31 13:05:44,900 [INFO] Confirmed character: p after 15 frames
+2026-01-31 13:05:45,401 [WARNING] Low FPS detected: 18.0
+2026-01-31 13:05:46,406 [WARNING] Low FPS detected: 18.9
+2026-01-31 13:05:47,638 [INFO] Confirmed character: p after 15 frames
+2026-01-31 13:05:48,463 [WARNING] Low FPS detected: 19.8
+2026-01-31 13:05:49,512 [WARNING] Low FPS detected: 19.1
+2026-01-31 13:05:50,351 [INFO] Performance Stats: FPS=19.1, Avg Latency=14.6ms, Max Latency=22.4ms, Confirmed Chars=138, False Positives=0
+2026-01-31 13:05:50,524 [WARNING] Low FPS detected: 17.8
+2026-01-31 13:05:51,552 [WARNING] Low FPS detected: 18.5
+2026-01-31 13:05:52,575 [INFO] Confirmed character: p after 15 frames
+2026-01-31 13:05:52,575 [WARNING] Low FPS detected: 18.6
+2026-01-31 13:05:53,622 [WARNING] Low FPS detected: 18.2
+2026-01-31 13:05:53,884 [INFO] Confirmed character: p after 15 frames
+2026-01-31 13:05:54,651 [WARNING] Low FPS detected: 19.4
+2026-01-31 13:05:57,708 [WARNING] Low FPS detected: 18.9
+2026-01-31 13:05:57,756 [INFO] Confirmed character: c after 15 frames
+2026-01-31 13:05:58,752 [WARNING] Low FPS detected: 18.2
+2026-01-31 13:05:59,779 [WARNING] Low FPS detected: 18.5
+2026-01-31 13:06:00,604 [INFO] Confirmed character: c after 15 frames
+2026-01-31 13:06:00,819 [WARNING] Low FPS detected: 19.2
+2026-01-31 13:06:01,862 [WARNING] Low FPS detected: 18.2
+2026-01-31 13:06:02,896 [WARNING] Low FPS detected: 18.4
+2026-01-31 13:06:03,924 [WARNING] Low FPS detected: 19.5
+2026-01-31 13:06:04,019 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:06:04,799 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:06:04,970 [WARNING] Low FPS detected: 19.1
+2026-01-31 13:06:06,015 [WARNING] Low FPS detected: 18.2
+2026-01-31 13:06:06,244 [INFO] Performance Stats: FPS=18.2, Avg Latency=14.9ms, Max Latency=24.7ms, Confirmed Chars=144, False Positives=0
+2026-01-31 13:06:07,030 [WARNING] Low FPS detected: 18.7
+2026-01-31 13:06:08,041 [WARNING] Low FPS detected: 18.8
+2026-01-31 13:06:09,065 [WARNING] Low FPS detected: 19.5
+2026-01-31 13:06:11,098 [WARNING] Low FPS detected: 19.7
+2026-01-31 13:06:12,108 [WARNING] Low FPS detected: 19.8
+2026-01-31 13:06:13,121 [WARNING] Low FPS detected: 19.7
+2026-01-31 13:06:13,907 [INFO] Confirmed character: o after 15 frames
+2026-01-31 13:06:14,149 [WARNING] Low FPS detected: 17.5
+2026-01-31 13:06:14,773 [INFO] Confirmed character: o after 15 frames
+2026-01-31 13:06:15,162 [WARNING] Low FPS detected: 17.8
+2026-01-31 13:06:15,613 [INFO] Confirmed character: o after 15 frames
+2026-01-31 13:06:16,175 [WARNING] Low FPS detected: 17.8
+2026-01-31 13:06:17,181 [WARNING] Low FPS detected: 18.9
+2026-01-31 13:06:20,281 [WARNING] Low FPS detected: 20.0
+2026-01-31 13:06:21,308 [WARNING] Low FPS detected: 19.5
+2026-01-31 13:06:21,732 [INFO] Performance Stats: FPS=19.5, Avg Latency=13.7ms, Max Latency=27.1ms, Confirmed Chars=147, False Positives=0
+2026-01-31 13:06:23,342 [WARNING] Low FPS detected: 19.4
+2026-01-31 13:06:23,777 [INFO] Confirmed character: a after 15 frames
+2026-01-31 13:06:24,352 [WARNING] Low FPS detected: 19.8
+2026-01-31 13:06:31,532 [WARNING] Low FPS detected: 19.4
+2026-01-31 13:06:34,642 [WARNING] Low FPS detected: 19.9
+2026-01-31 13:06:35,685 [WARNING] Low FPS detected: 19.2
+2026-01-31 13:06:36,508 [INFO] Performance Stats: FPS=19.2, Avg Latency=13.5ms, Max Latency=28.4ms, Confirmed Chars=148, False Positives=0
+2026-01-31 13:06:36,708 [WARNING] Low FPS detected: 18.6
+2026-01-31 13:06:37,726 [WARNING] Low FPS detected: 19.7
+2026-01-31 13:06:44,955 [WARNING] Low FPS detected: 19.5
+2026-01-31 13:06:45,955 [WARNING] Low FPS detected: 19.0
+2026-01-31 13:06:49,045 [WARNING] Low FPS detected: 19.9
+2026-01-31 13:06:50,054 [WARNING] Low FPS detected: 19.8
+2026-01-31 13:06:51,121 [INFO] Performance Stats: FPS=20.7, Avg Latency=13.2ms, Max Latency=19.6ms, Confirmed Chars=148, False Positives=0
+2026-01-31 13:06:52,097 [WARNING] Low FPS detected: 19.5
+2026-01-31 13:06:54,169 [WARNING] Low FPS detected: 19.2
+2026-01-31 13:06:55,110 [INFO] Confirmed character: x after 15 frames
+2026-01-31 13:06:55,173 [WARNING] Low FPS detected: 15.9
+2026-01-31 13:06:56,214 [WARNING] Low FPS detected: 17.3
+2026-01-31 13:06:57,277 [WARNING] Low FPS detected: 17.9
+2026-01-31 13:06:58,316 [WARNING] Low FPS detected: 18.3
+2026-01-31 13:06:59,379 [WARNING] Low FPS detected: 16.9
+2026-01-31 13:06:59,877 [INFO] Confirmed character: i after 15 frames
+2026-01-31 13:07:00,420 [WARNING] Low FPS detected: 16.3
+2026-01-31 13:07:01,429 [WARNING] Low FPS detected: 17.8
+2026-01-31 13:07:02,431 [WARNING] Low FPS detected: 19.0
+2026-01-31 13:07:03,443 [WARNING] Low FPS detected: 16.8
+2026-01-31 13:07:04,407 [INFO] Confirmed character: n after 15 frames
+2026-01-31 13:07:04,468 [WARNING] Low FPS detected: 16.6
+2026-01-31 13:07:05,480 [WARNING] Low FPS detected: 17.8
+2026-01-31 13:07:06,488 [WARNING] Low FPS detected: 18.9
+2026-01-31 13:07:07,662 [INFO] Performance Stats: FPS=20.4, Avg Latency=15.4ms, Max Latency=37.8ms, Confirmed Chars=151, False Positives=0
+2026-01-31 13:07:10,619 [WARNING] Low FPS detected: 18.2
+2026-01-31 13:07:11,071 [INFO] Confirmed character: c after 15 frames
+2026-01-31 13:07:11,620 [WARNING] Low FPS detected: 18.0
+2026-01-31 13:07:12,640 [WARNING] Low FPS detected: 19.6
+2026-01-31 13:07:13,657 [WARNING] Low FPS detected: 19.7
+2026-01-31 13:07:14,669 [WARNING] Low FPS detected: 17.8
+2026-01-31 13:07:15,326 [INFO] Confirmed character: h after 15 frames
+2026-01-31 13:07:15,715 [WARNING] Low FPS detected: 18.2
+2026-01-31 13:07:18,784 [WARNING] Low FPS detected: 19.0
+2026-01-31 13:07:18,833 [INFO] Confirmed character: a after 15 frames
+2026-01-31 13:07:19,826 [WARNING] Low FPS detected: 19.2
+2026-01-31 13:07:20,842 [WARNING] Low FPS detected: 19.7
+2026-01-31 13:07:21,869 [WARNING] Low FPS detected: 18.5
+2026-01-31 13:07:22,928 [WARNING] Low FPS detected: 17.9
+2026-01-31 13:07:23,348 [INFO] Performance Stats: FPS=17.9, Avg Latency=15.0ms, Max Latency=25.1ms, Confirmed Chars=154, False Positives=0
+2026-01-31 13:07:23,405 [INFO] Confirmed character: o after 15 frames
+2026-01-31 13:07:23,936 [WARNING] Low FPS detected: 16.9
+2026-01-31 13:07:24,942 [WARNING] Low FPS detected: 19.9
+2026-01-31 13:07:28,998 [WARNING] Low FPS detected: 20.0
+2026-01-31 13:07:31,152 [WARNING] Low FPS detected: 5.6
+2026-01-31 13:07:32,199 [WARNING] Low FPS detected: 19.1
+2026-01-31 13:07:33,206 [WARNING] Low FPS detected: 19.9
+2026-01-31 13:07:39,679 [INFO] Performance Stats: FPS=21.1, Avg Latency=13.4ms, Max Latency=24.5ms, Confirmed Chars=155, False Positives=0
+2026-01-31 13:07:48,649 [WARNING] Low FPS detected: 19.7
+2026-01-31 13:07:49,382 [INFO] Confirmed character: a after 15 frames
+2026-01-31 13:07:49,663 [WARNING] Low FPS detected: 19.7
+2026-01-31 13:07:53,813 [WARNING] Low FPS detected: 19.9
+2026-01-31 13:07:54,345 [INFO] Performance Stats: FPS=19.9, Avg Latency=13.1ms, Max Latency=36.9ms, Confirmed Chars=156, False Positives=0
+2026-01-31 13:07:54,828 [WARNING] Low FPS detected: 19.7
+2026-01-31 13:07:55,840 [WARNING] Low FPS detected: 19.8
+2026-01-31 13:07:59,939 [WARNING] Low FPS detected: 18.8
+2026-01-31 13:08:01,987 [WARNING] Low FPS detected: 19.0
+2026-01-31 13:08:02,990 [WARNING] Low FPS detected: 19.9
+2026-01-31 13:08:08,185 [WARNING] Low FPS detected: 19.1
+2026-01-31 13:08:09,419 [INFO] Performance Stats: FPS=20.3, Avg Latency=13.8ms, Max Latency=44.6ms, Confirmed Chars=156, False Positives=0
+2026-01-31 13:08:10,230 [WARNING] Low FPS detected: 19.7
+2026-01-31 13:08:11,234 [WARNING] Low FPS detected: 19.9
+2026-01-31 13:08:12,244 [WARNING] Low FPS detected: 19.8
+2026-01-31 13:08:14,318 [WARNING] Low FPS detected: 19.2
+2026-01-31 13:08:15,342 [WARNING] Low FPS detected: 19.5
+2026-01-31 13:08:16,408 [WARNING] Low FPS detected: 19.7
+2026-01-31 13:08:18,465 [WARNING] Low FPS detected: 19.6
+2026-01-31 13:08:23,592 [WARNING] Low FPS detected: 19.6
+2026-01-31 13:08:24,392 [INFO] Performance Stats: FPS=19.6, Avg Latency=13.0ms, Max Latency=15.4ms, Confirmed Chars=156, False Positives=0
+2026-01-31 13:08:25,671 [WARNING] Low FPS detected: 19.1
+2026-01-31 13:08:26,699 [WARNING] Low FPS detected: 19.5
+2026-01-31 13:08:27,728 [WARNING] Low FPS detected: 19.4
+2026-01-31 13:08:28,744 [WARNING] Low FPS detected: 19.7
+2026-01-31 13:08:29,770 [WARNING] Low FPS detected: 19.5
+2026-01-31 13:08:30,796 [WARNING] Low FPS detected: 18.5
+2026-01-31 13:08:33,898 [WARNING] Low FPS detected: 19.2
+2026-01-31 13:08:36,005 [WARNING] Low FPS detected: 19.8
+2026-01-31 13:08:38,065 [WARNING] Low FPS detected: 19.7
+2026-01-31 13:08:39,078 [WARNING] Low FPS detected: 19.7
+2026-01-31 13:08:39,609 [INFO] Performance Stats: FPS=19.7, Avg Latency=13.6ms, Max Latency=44.2ms, Confirmed Chars=156, False Positives=0
+2026-01-31 13:08:45,257 [WARNING] Low FPS detected: 19.2
+2026-01-31 13:08:47,294 [WARNING] Low FPS detected: 18.5
+2026-01-31 13:08:48,344 [WARNING] Low FPS detected: 19.0
+2026-01-31 13:08:49,353 [WARNING] Low FPS detected: 17.8
+2026-01-31 13:08:50,411 [WARNING] Low FPS detected: 17.9
+2026-01-31 13:08:51,437 [WARNING] Low FPS detected: 19.5
+2026-01-31 13:08:54,522 [WARNING] Low FPS detected: 19.7
+2026-01-31 13:08:54,864 [INFO] Performance Stats: FPS=19.7, Avg Latency=13.9ms, Max Latency=33.9ms, Confirmed Chars=156, False Positives=0
+2026-01-31 13:08:57,877 [INFO] VSL Backend released
