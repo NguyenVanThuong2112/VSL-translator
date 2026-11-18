@@ -1,103 +1,138 @@
 # 🤟 Vietnamese Sign Language (VSL) Translator
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
-![Mediapipe](https://img.shields.io/badge/Mediapipe-Enabled-green)
-![OpenCV](https://img.shields.io/badge/OpenCV-Supported-red)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Model-orange)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-hand_tracking-green)
+![OpenCV](https://img.shields.io/badge/OpenCV-computer_vision-red)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-classifier-orange)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-A real-time Desktop Application that translates Vietnamese Sign Language (VSL) into text and speech. Built with **Computer Vision (OpenCV & MediaPipe)** for hand-tracking and **Scikit-Learn** for gesture classification, this project provides a complete pipeline from dataset collection to model training and GUI deployment.
+A real-time desktop application that translates **Vietnamese Sign Language (VSL)** hand gestures into text and speech. It uses **MediaPipe** to track the hand from a webcam, **Scikit-Learn** to classify each gesture, and a **Tkinter** interface to show the result.
 
-## ✨ Key Features
-*   **Real-time Recognition:** Captures webcam feed to detect and translate VSL hand gestures instantly.
-*   **Tkinter GUI:** A lightweight, user-friendly graphical interface (`src/gui.py`).
-*   **Word Suggester:** An integrated NLP module (`src/word_suggester.py`) that predicts and suggests complete Vietnamese words based on recognized characters.
-*   **Text-to-Speech (TTS):** Speaks out the translated Vietnamese text automatically using `pyttsx3`.
-*   **Custom Training Pipeline:** Includes built-in scripts (`data/collect_images.py`, `data/create_dataset.py`) to easily collect new hand gestures and train your own custom model.
+The repository covers the whole workflow: collecting a dataset, extracting hand landmarks, training a model, and running it live.
+
+<!-- TODO: add a 10-second GIF of the app recognizing signs from the webcam.
+![Demo](docs/demo.gif) -->
+
+## 🎯 Scope
+
+<!-- TODO: state clearly what the model recognizes, e.g.:
+This project recognizes [the VSL alphabet / N gestures / words]. Recognized characters are combined into Vietnamese words with the help of a word suggester. It does not translate full sentences or continuous signing. -->
+
+## ✨ Features
+
+- **Real-time recognition:** reads the webcam feed and classifies VSL hand gestures instantly.
+- **Tkinter GUI:** a lightweight, easy-to-use interface (`src/gui.py`).
+- **Word suggester:** suggests complete Vietnamese words from the recognized characters (`src/word_suggester.py`).
+- **Text-to-speech:** reads the translated Vietnamese text aloud with `pyttsx3`.
+- **Custom training pipeline:** scripts to collect your own gestures and train a new model (`data/collect_images.py`, `data/create_dataset.py`).
+
+## 📊 Model Performance
+
+<!-- TODO: fill in with your real numbers and delete any row you cannot back up. -->
+
+| Item | Value |
+|---|---|
+| Number of classes | [X] |
+| Number of samples | [X] |
+| Classifier | [e.g. Random Forest] |
+| Features | MediaPipe hand landmarks |
+| Test accuracy | [X]% |
+
+## 🔬 How It Works
+
+1. **Capture:** OpenCV reads frames from the webcam.
+2. **Hand tracking:** MediaPipe detects the hand and returns 21 landmark points.
+3. **Classification:** the landmark coordinates are fed to a Scikit-Learn classifier that predicts the sign.
+4. **Output:** the predicted character is added to the text, the word suggester proposes completions, and `pyttsx3` can speak the result.
 
 ## 📁 Repository Structure
 
-```text
+```
 VSL-translator/
-│
-├── data/                   # Dataset generation pipeline
-│   ├── collect_images.py   # Script to capture hand images via webcam
-│   ├── create_dataset.py   # Script to extract MediaPipe landmarks and save to CSV/Pickle
-│   ├── words.csv           # Vocabulary dictionary
-│   └── download_dataset.txt# Link to download the full raw dataset
-│
-├── docs/                   # Documentation & Logs
-│   ├── CHANGES.md          # Version history
-│   ├── LAYOUT_CHANGE_V2.3.md # UI update notes
-│   └── UPDATE_PLAN.md      # Future development plans
-│
-├── models/                 # Pre-trained models
-│   ├── model.p             # Trained classifier
-│   └── download_model.txt  # Google Drive link for VSL.pickle
-│
-├── notebooks/              
-│   └── model_testing.ipynb # Jupyter notebook for training and evaluating models
-│
-├── src/                    # Core application logic
-│   ├── __init__.py
-│   ├── backend.py          # Inference engine & MediaPipe wrapper
-│   ├── config.py           # App configurations (colors, thresholds, etc.)
-│   ├── gui.py              # Tkinter UI components
-│   └── word_suggester.py   # Autocomplete & word suggestion algorithm
-│
-├── requirements.txt        # Dependencies (OpenCV, MediaPipe, sklearn, etc.)
-└── main.py                 # Main entry point to launch the app
-
+├── data/
+│   ├── collect_images.py       # Capture hand images via webcam
+│   ├── create_dataset.py       # Extract MediaPipe landmarks and save the dataset
+│   ├── words.csv               # Vocabulary dictionary
+│   └── download_dataset.txt    # Link to the full raw dataset
+├── docs/                       # Version history and development notes
+├── legacy/                     # [TODO: one line on what this contains]
+├── models/
+│   ├── model.p                 # Trained classifier
+│   └── download_model.txt      # Link to download the main model
+├── notebooks/
+│   └── model_testing.ipynb     # Train and evaluate models
+├── src/
+│   ├── backend.py              # Inference engine and MediaPipe wrapper
+│   ├── config.py               # App settings (colors, thresholds, ...)
+│   ├── gui.py                  # Tkinter UI
+│   └── word_suggester.py       # Word suggestion algorithm
+├── tests/
+├── requirements.txt
+└── main.py                     # Entry point
 ```
 
 ## ⚙️ Installation
 
-**1. Clone the repository:**
+**1. Clone the repository**
 
 ```bash
-git clone [https://github.com/NguyenVanThuong2112/VSL-translator.git](https://github.com/NguyenVanThuong2112/VSL-translator.git)
+git clone https://github.com/NguyenVanThuong2112/VSL-translator.git
 cd VSL-translator
-
 ```
 
-**2. Install dependencies:**
+**2. Install dependencies**
 
 ```bash
 pip install -r requirements.txt
-
 ```
 
-**3. Download Pre-trained Models:**
-Due to file size limits, the main model (`VSL.pickle`) is hosted on Google Drive.
+**3. Download the pre-trained model**
 
-* Open `models/download_model.txt` and navigate to the provided Google Drive link.
-* Download `VSL.pickle` and place it inside the `models/` directory.
+The main model is too large for the repository. Open `models/download_model.txt`, download the file from the link, and place it in the `models/` folder.
+
+<!-- TODO: use one model file name everywhere (model.p or VSL.pickle) and make sure it matches the path in src/config.py. -->
 
 ## 🚀 Usage
 
-### 1. Run the Application
-
-To launch the Translator GUI with the pre-trained model:
+### Run the application
 
 ```bash
 python main.py
-
 ```
 
-*Note: Make sure your webcam is connected.*
+A webcam is required.
 
-### 2. Train Your Own Gestures (Custom Dataset)
+### Train your own gestures
 
-This repository includes a full pipeline to train new signs:
+1. **Collect data:** `python data/collect_images.py` opens the webcam and captures images for each new class.
+2. **Build the dataset:** `python data/create_dataset.py` extracts hand landmarks with MediaPipe and saves them.
+3. **Train:** open `notebooks/model_testing.ipynb`, train a Scikit-Learn classifier on your data, and export the new model into `models/`.
 
-1. **Collect Data:** Run `python data/collect_images.py` to open the webcam and capture images for new classes.
-2. **Process Data:** Run `python data/create_dataset.py` to extract hand landmarks using MediaPipe and save them into a structured format.
-3. **Train Model:** Open `notebooks/model_testing.ipynb` to train a new Scikit-Learn classifier (e.g., Random Forest) on your custom data and export the new `model.p` or `VSL.pickle`.
+### Run the tests
+
+<!-- TODO: replace with the real command, e.g. `pytest tests/` -->
+
+## ⚠️ Limitations
+
+<!-- TODO: edit to match what you observed. Examples: -->
+- Accuracy depends on lighting and background.
+- [One hand / both hands] supported.
+- Recognizes individual signs only, not continuous signing or full sentences.
+- Trained on a limited number of signers, so it may perform worse for hand shapes and styles it has not seen.
+
+## 🗺️ Roadmap
+
+<!-- TODO: 2-3 real next steps, e.g. add more signs, support two hands, improve the word suggester. See docs/UPDATE_PLAN.md. -->
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+Issues and pull requests are welcome. If you plan a larger change, please open an issue first to discuss it.
 
 ## 📝 License
 
-This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
+This project is released under the [MIT License](LICENSE).
 
+## 👤 Author
+
+**Nguyễn Văn Thương** (check the spelling of your name) · [@NguyenVanThuong2112](https://github.com/NguyenVanThuong2112)
+<!-- TODO: add email or LinkedIn. -->
